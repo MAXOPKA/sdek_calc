@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = SdekCalc::VERSION
   s.authors     = ["MAXOPKA"]
   s.email       = ["d.n.krivenko@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SdekCalc."
-  s.description = "TODO: Description of SdekCalc."
+  s.homepage    = ""
+  s.summary     = "Gem for Delivry calculation API"
+  s.description = "It's Rails Engine for Apps why use Delivery"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
