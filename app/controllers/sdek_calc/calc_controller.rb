@@ -1,8 +1,11 @@
 module SdekCalc
-  class MainController < ApplicationController
+  class CalcController < SdekCalcController
 
     def index
 
+    end
+
+    def calculate
     end
 
   end

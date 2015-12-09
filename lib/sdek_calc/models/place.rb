@@ -1,0 +1,2 @@
+class SdekCalc::Place
+end
