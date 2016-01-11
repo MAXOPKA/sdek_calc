@@ -1,4 +1,6 @@
 SdekCalc::Engine.routes.draw do
-  get '/' => 'calc#index'
-  post '/' => 'calc#calculate'
+  get '/' => 'calculator#form'
+  post '/' => 'calculator#calculate'
+
+  get '/find_city' => 'cities#find'
 end

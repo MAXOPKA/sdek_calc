@@ -1,0 +1,4258 @@
+---
+kz:
+  -
+      ID: 13981
+      FullName: 23мкр, Казахстан
+      CityName: 23мкр
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 23mkr, Kazakhstan
+  -
+      ID: 14000
+      FullName: Аблакетка, Казахстан
+      CityName: Аблакетка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ablaketka, Kazakhstan
+  -
+      ID: 14001
+      FullName: Авангард, Казахстан
+      CityName: Авангард
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Avangard, Kazakhstan
+  -
+      ID: 14002
+      FullName: Акбулак, Казахстан
+      CityName: Акбулак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akbulak, Kazakhstan
+  -
+      ID: 14003
+      FullName: Аккистау, Казахстан
+      CityName: Аккистау
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akkistau, Kazakhstan
+  -
+      ID: 14005
+      FullName: Аккульск, Казахстан
+      CityName: Аккульск
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Akkul''sk, Kazakhstan'
+  -
+      ID: 14006
+      FullName: Аккум, Казахстан
+      CityName: Аккум
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akkum, Kazakhstan
+  -
+      ID: 14007
+      FullName: АКПО, Казахстан
+      CityName: АКПО
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: AKPO, Kazakhstan
+  -
+      ID: 14008
+      FullName: Аксай, Казахстан
+      CityName: Аксай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aksaj, Kazakhstan
+  -
+      ID: 14009
+      FullName: Аксукент, Казахстан
+      CityName: Аксукент
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aksukent, Kazakhstan
+  -
+      ID: 13435
+      FullName: Актау, Мангистауская  обл
+      CityName: Актау, Мангистауская  обл
+      OblName: null
+      Center:
+      NalSumLimit: no limit
+      EngName: Aktau, Mangistauskaya  obl, Kazakhstan
+  -
+      ID: 14010
+      FullName: Акшакур, Казахстан
+      CityName: Акшакур
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akshakur, Kazakhstan
+  -
+      ID: 14011
+      FullName: Алгабас, Казахстан
+      CityName: Алгабас
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Algabas, Kazakhstan
+  -
+      ID: 14012
+      FullName: Алтынсарина, Казахстан
+      CityName: Алтынсарина
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Altynsarina, Kazakhstan
+  -
+      ID: 14013
+      FullName: Асса, Казахстан
+      CityName: Асса
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Assa, Kazakhstan
+  -
+      ID: 14014
+      FullName: Аулиеколь, Казахстан
+      CityName: Аулиеколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Auliekol'', Kazakhstan'
+  -
+      ID: 14015
+      FullName: Ахмирово, Казахстан
+      CityName: Ахмирово
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akhmirovo, Kazakhstan
+  -
+      ID: 14016
+      FullName: Аэропорт, Казахстан
+      CityName: Аэропорт
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aeroport, Kazakhstan
+  -
+      ID: 14017
+      FullName: Б.Момыш улы, Казахстан
+      CityName: Б.Момыш улы
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: B.Momysh uly, Kazakhstan
+  -
+      ID: 14018
+      FullName: Бадам, Казахстан
+      CityName: Бадам
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Badam, Kazakhstan
+  -
+      ID: 14019
+      FullName: Бадамша, Казахстан
+      CityName: Бадамша
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Badamsha, Kazakhstan
+  -
+      ID: 14020
+      FullName: Баженово, Казахстан
+      CityName: Баженово
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bazhenovo, Kazakhstan
+  -
+      ID: 14021
+      FullName: Байтанат, Казахстан
+      CityName: Байтанат
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bajtanat, Kazakhstan
+  -
+      ID: 14022
+      FullName: Балпык-би, Казахстан
+      CityName: Балпык-би
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Balpyk-bi, Kazakhstan
+  -
+      ID: 14023
+      FullName: Белокаменка, Казахстан
+      CityName: Белокаменка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Belokamenka, Kazakhstan
+  -
+      ID: 14024
+      FullName: Белькуль, Казахстан
+      CityName: Белькуль
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bel''kul'', Kazakhstan'
+  -
+      ID: 14025
+      FullName: Береке, Казахстан
+      CityName: Береке
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bereke, Kazakhstan
+  -
+      ID: 14026
+      FullName: Берлестык, Казахстан
+      CityName: Берлестык
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Berlestyk, Kazakhstan
+  -
+      ID: 14027
+      FullName: Бирлик, Казахстан
+      CityName: Бирлик
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Birlik, Kazakhstan
+  -
+      ID: 14028
+      FullName: Бишкуль, Казахстан
+      CityName: Бишкуль
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bishkul'', Kazakhstan'
+  -
+      ID: 14029
+      FullName: Бобровка, Казахстан
+      CityName: Бобровка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bobrovka, Kazakhstan
+  -
+      ID: 14030
+      FullName: Большенарым, Казахстан
+      CityName: Большенарым
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bol''shenarym, Kazakhstan'
+  -
+      ID: 14031
+      FullName: Булак, Казахстан
+      CityName: Булак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bulak, Kazakhstan
+  -
+      ID: 14032
+      FullName: Васильковский ГОК, Казахстан
+      CityName: Васильковский ГОК
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vasil''kovskij GOK, Kazakhstan'
+  -
+      ID: 14033
+      FullName: Водный, Казахстан
+      CityName: Водный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vodnyj, Kazakhstan
+  -
+      ID: 14034
+      FullName: Возвышенка, Казахстан
+      CityName: Возвышенка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vozvyshenka, Kazakhstan
+  -
+      ID: 14035
+      FullName: Володаровка, Казахстан
+      CityName: Володаровка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Volodarovka, Kazakhstan
+  -
+      ID: 14036
+      FullName: Восточная промзона, Казахстан
+      CityName: Восточная промзона
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vostochnaya promzona, Kazakhstan
+  -
+      ID: 14037
+      FullName: Выдриха, Казахстан
+      CityName: Выдриха
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vydrikha, Kazakhstan
+  -
+      ID: 14038
+      FullName: Гагарина, Казахстан
+      CityName: Гагарина
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Gagarina, Kazakhstan
+  -
+      ID: 14039
+      FullName: Глуховка, Казахстан
+      CityName: Глуховка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Glukhovka, Kazakhstan
+  -
+      ID: 14040
+      FullName: Горнятский, Казахстан
+      CityName: Горнятский
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Gornyatskij, Kazakhstan
+  -
+      ID: 14041
+      FullName: ГПП-500, Казахстан
+      CityName: ГПП-500
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: GPP-500, Kazakhstan
+  -
+      ID: 14042
+      FullName: Гранитный, Казахстан
+      CityName: Гранитный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Granitnyj, Kazakhstan
+  -
+      ID: 14043
+      FullName: Грэсс, Казахстан
+      CityName: Грэсс
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Gress, Kazakhstan
+  -
+      ID: 14044
+      FullName: Дарьинск, Казахстан
+      CityName: Дарьинск
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dar''insk, Kazakhstan'
+  -
+      ID: 14045
+      FullName: Даулет, Казахстан
+      CityName: Даулет
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Daulet, Kazakhstan
+  -
+      ID: 14046
+      FullName: Денисовка, Казахстан
+      CityName: Денисовка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Denisovka, Kazakhstan
+  -
+      ID: 14047
+      FullName: Деркул, Казахстан
+      CityName: Деркул
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Derkul, Kazakhstan
+  -
+      ID: 14048
+      FullName: Долинка, Казахстан
+      CityName: Долинка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dolinka, Kazakhstan
+  -
+      ID: 14049
+      FullName: Достык, Казахстан
+      CityName: Достык
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dostyk, Kazakhstan
+  -
+      ID: 14050
+      FullName: Егиндыколь, Казахстан
+      CityName: Егиндыколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Egindykol'', Kazakhstan'
+  -
+      ID: 14051
+      FullName: Енбек, Казахстан
+      CityName: Енбек
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Enbek, Kazakhstan
+  -
+      ID: 14052
+      FullName: Енбек-Актау, Казахстан
+      CityName: Енбек-Актау
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Enbek-Aktau, Kazakhstan
+  -
+      ID: 14053
+      FullName: Жазык, Казахстан
+      CityName: Жазык
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHazyk, Kazakhstan
+  -
+      ID: 14054
+      FullName: Жайрем, Казахстан
+      CityName: Жайрем
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHajrem, Kazakhstan
+  -
+      ID: 14055
+      FullName: Жалагаш, Казахстан
+      CityName: Жалагаш
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHalagash, Kazakhstan
+  -
+      ID: 14056
+      FullName: Жамбыл, Казахстан
+      CityName: Жамбыл
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHambyl, Kazakhstan
+  -
+      ID: 14057
+      FullName: Жанаозен, Казахстан
+      CityName: Жанаозен
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHanaozen, Kazakhstan
+  -
+      ID: 14058
+      FullName: Жанаул, Казахстан
+      CityName: Жанаул
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHanaul, Kazakhstan
+  -
+      ID: 14059
+      FullName: Жангылды, Казахстан
+      CityName: Жангылды
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHangyldy, Kazakhstan
+  -
+      ID: 14060
+      FullName: Жанокорган, Казахстан
+      CityName: Жанокорган
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHanokorgan, Kazakhstan
+  -
+      ID: 14061
+      FullName: Жансугурова, Казахстан
+      CityName: Жансугурова
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHansugurova, Kazakhstan
+  -
+      ID: 14062
+      FullName: Жаркент, Казахстан
+      CityName: Жаркент
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHarkent, Kazakhstan
+  -
+      ID: 14063
+      FullName: Жарколь, Казахстан
+      CityName: Жарколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHarkol'', Kazakhstan'
+  -
+      ID: 14064
+      FullName: Жаркын, Казахстан
+      CityName: Жаркын
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHarkyn, Kazakhstan
+  -
+      ID: 14065
+      FullName: Жезды, Казахстан
+      CityName: Жезды
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHezdy, Kazakhstan
+  -
+      ID: 14066
+      FullName: Желаево, Казахстан
+      CityName: Желаево
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHelaevo, Kazakhstan
+  -
+      ID: 14067
+      FullName: Жетысай, Казахстан
+      CityName: Жетысай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHetysaj, Kazakhstan
+  -
+      ID: 14068
+      FullName: Жетысу, Казахстан
+      CityName: Жетысу
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHetysu, Kazakhstan
+  -
+      ID: 14069
+      FullName: Жиланды, Казахстан
+      CityName: Жиланды
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHilandy, Kazakhstan
+  -
+      ID: 13957
+      FullName: Житикара, Казахстан
+      CityName: Житикара
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHitikara, Kazakhstan
+  -
+      ID: 14070
+      FullName: Жолпак Тобе, Казахстан
+      CityName: Жолпак Тобе
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHolpak Tobe, Kazakhstan
+  -
+      ID: 14071
+      FullName: Жосалы, Казахстан
+      CityName: Жосалы
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHosaly, Kazakhstan
+  -
+      ID: 14072
+      FullName: Жулдыз, Казахстан
+      CityName: Жулдыз
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHuldyz, Kazakhstan
+  -
+      ID: 14073
+      FullName: Заречный, Казахстан
+      CityName: Заречный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zarechnyj, Kazakhstan
+  -
+      ID: 14074
+      FullName: Затоболовка, Казахстан
+      CityName: Затоболовка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zatobolovka, Kazakhstan
+  -
+      ID: 14075
+      FullName: Зачаганский, Казахстан
+      CityName: Зачаганский
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zachaganskij, Kazakhstan
+  -
+      ID: 14076
+      FullName: Ивановка, Казахстан
+      CityName: Ивановка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ivanovka, Kazakhstan
+  -
+      ID: 14077
+      FullName: Изумрудный, Казахстан
+      CityName: Изумрудный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Izumrudnyj, Kazakhstan
+  -
+      ID: 14078
+      FullName: Ильичевка, Казахстан
+      CityName: Ильичевка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Il''ichevka, Kazakhstan'
+  -
+      ID: 14079
+      FullName: Интернациональный, Казахстан
+      CityName: Интернациональный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Internatsional''nyj, Kazakhstan'
+  -
+      ID: 14080
+      FullName: Иргели, Казахстан
+      CityName: Иргели
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Irgeli, Kazakhstan
+  -
+      ID: 276
+      FullName: Казахстан, Казахстан
+      CityName: Казахстан
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazakhstan, Kazakhstan
+  -
+      ID: 14081
+      FullName: Казахстанский Элект.завод, Казахстан
+      CityName: Казахстанский Элект.завод
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazakhstanskij Elekt.zavod, Kazakhstan
+  -
+      ID: 14082
+      FullName: Казгермунай, Казахстан
+      CityName: Казгермунай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazgermunaj, Kazakhstan
+  -
+      ID: 14083
+      FullName: Казгородок, Казахстан
+      CityName: Казгородок
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazgorodok, Kazakhstan
+  -
+      ID: 14084
+      FullName: Казыгурт, Казахстан
+      CityName: Казыгурт
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazygurt, Kazakhstan
+  -
+      ID: 14085
+      FullName: Каменка, Казахстан
+      CityName: Каменка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kamenka, Kazakhstan
+  -
+      ID: 14086
+      FullName: Камысты, Казахстан
+      CityName: Камысты
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kamysty, Kazakhstan
+  -
+      ID: 14087
+      FullName: Кандыагаш, Казахстан
+      CityName: Кандыагаш
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kandyagash, Kazakhstan
+  -
+      ID: 14088
+      FullName: Карабас, Казахстан
+      CityName: Карабас
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karabas, Kazakhstan
+  -
+      ID: 14089
+      FullName: Караколь, Казахстан
+      CityName: Караколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Karakol'', Kazakhstan'
+  -
+      ID: 14090
+      FullName: Караоткель, Казахстан
+      CityName: Караоткель
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Karaotkel'', Kazakhstan'
+  -
+      ID: 14091
+      FullName: Карасу, Казахстан
+      CityName: Карасу
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karasu, Kazakhstan
+  -
+      ID: 14092
+      FullName: Каратобе, Казахстан
+      CityName: Каратобе
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karatobe, Kazakhstan
+  -
+      ID: 14093
+      FullName: Каратольск, Казахстан
+      CityName: Каратольск
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Karatol''sk, Kazakhstan'
+  -
+      ID: 14094
+      FullName: Караузек, Казахстан
+      CityName: Караузек
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karauzek, Kazakhstan
+  -
+      ID: 14095
+      FullName: Карлуга, Казахстан
+      CityName: Карлуга
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karluga, Kazakhstan
+  -
+      ID: 14096
+      FullName: Карсакпай, Казахстан
+      CityName: Карсакпай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karsakpaj, Kazakhstan
+  -
+      ID: 14097
+      FullName: Качиры, Казахстан
+      CityName: Качиры
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kachiry, Kazakhstan
+  -
+      ID: 14098
+      FullName: Кенесары, Казахстан
+      CityName: Кенесары
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kenesary, Kazakhstan
+  -
+      ID: 14099
+      FullName: Кик, Казахстан
+      CityName: Кик
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kik, Kazakhstan
+  -
+      ID: 14100
+      FullName: Кирпичный, Казахстан
+      CityName: Кирпичный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kirpichnyj, Kazakhstan
+  -
+      ID: 14101
+      FullName: Кишкенеколь, Казахстан
+      CityName: Кишкенеколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kishkenekol'', Kazakhstan'
+  -
+      ID: 14102
+      FullName: Киялы, Казахстан
+      CityName: Киялы
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kiyaly, Kazakhstan
+  -
+      ID: 14103
+      FullName: Коктерек, Казахстан
+      CityName: Коктерек
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kokterek, Kazakhstan
+  -
+      ID: 14104
+      FullName: Коктобе, Казахстан
+      CityName: Коктобе
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koktobe, Kazakhstan
+  -
+      ID: 14105
+      FullName: Кокшетау-2, Казахстан
+      CityName: Кокшетау-2
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kokshetau-2, Kazakhstan
+  -
+      ID: 14106
+      FullName: Комсомольский, Казахстан
+      CityName: Комсомольский
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Komsomol''skij, Kazakhstan'
+  -
+      ID: 14107
+      FullName: Комсомольское, Казахстан
+      CityName: Комсомольское
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Komsomol''skoe, Kazakhstan'
+  -
+      ID: 14108
+      FullName: Конзовод, Казахстан
+      CityName: Конзовод
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Konzovod, Kazakhstan
+  -
+      ID: 14109
+      FullName: Кордай, Казахстан
+      CityName: Кордай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kordaj, Kazakhstan
+  -
+      ID: 14110
+      FullName: Косчагыл, Казахстан
+      CityName: Косчагыл
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koschagyl, Kazakhstan
+  -
+      ID: 14111
+      FullName: Кошкар, Казахстан
+      CityName: Кошкар
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koshkar, Kazakhstan
+  -
+      ID: 14112
+      FullName: Коштак, Казахстан
+      CityName: Коштак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koshtak, Kazakhstan
+  -
+      ID: 14113
+      FullName: Кощи, Казахстан
+      CityName: Кощи
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koschi, Kazakhstan
+  -
+      ID: 14114
+      FullName: Красина, Казахстан
+      CityName: Красина
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Krasina, Kazakhstan
+  -
+      ID: 14115
+      FullName: Крупское, Казахстан
+      CityName: Крупское
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Krupskoe, Kazakhstan
+  -
+      ID: 14116
+      FullName: Кулан, Казахстан
+      CityName: Кулан
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kulan, Kazakhstan
+  -
+      ID: 14117
+      FullName: Курык, Казахстан
+      CityName: Курык
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kuryk, Kazakhstan
+  -
+      ID: 14118
+      FullName: Кушокы, Казахстан
+      CityName: Кушокы
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kushoky, Kazakhstan
+  -
+      ID: 14120
+      FullName: Кызыл-Жар, Казахстан
+      CityName: Кызыл-Жар
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kyzyl-ZHar, Kazakhstan
+  -
+      ID: 14119
+      FullName: Кызыл-Тобе, Казахстан
+      CityName: Кызыл-Тобе
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kyzyl-Tobe, Kazakhstan
+  -
+      ID: 14121
+      FullName: Кызылжарма, Казахстан
+      CityName: Кызылжарма
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kyzylzharma, Kazakhstan
+  -
+      ID: 14125
+      FullName: Мангыстау, Казахстан
+      CityName: Мангыстау
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mangystau, Kazakhstan
+  -
+      ID: 14126
+      FullName: Меновное, Казахстан
+      CityName: Меновное
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Menovnoe, Kazakhstan
+  -
+      ID: 14127
+      FullName: Металлург, Казахстан
+      CityName: Металлург
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Metallurg, Kazakhstan
+  -
+      ID: 14128
+      FullName: Микрорайоны, Казахстан
+      CityName: Микрорайоны
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mikrorajony, Kazakhstan
+  -
+      ID: 14129
+      FullName: Мичурина, Казахстан
+      CityName: Мичурина
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Michurina, Kazakhstan
+  -
+      ID: 14130
+      FullName: Мичурино, Казахстан
+      CityName: Мичурино
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Michurino, Kazakhstan
+  -
+      ID: 14131
+      FullName: Мойынты, Казахстан
+      CityName: Мойынты
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mojynty, Kazakhstan
+  -
+      ID: 14132
+      FullName: Молодежный, Казахстан
+      CityName: Молодежный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Molodezhnyj, Kazakhstan
+  -
+      ID: 14133
+      FullName: Мунайши, Казахстан
+      CityName: Мунайши
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Munajshi, Kazakhstan
+  -
+      ID: 14134
+      FullName: Мупры, Казахстан
+      CityName: Мупры
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mupry, Kazakhstan
+  -
+      ID: 14135
+      FullName: Мурат, Казахстан
+      CityName: Мурат
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Murat, Kazakhstan
+  -
+      ID: 14136
+      FullName: Мынарал, Казахстан
+      CityName: Мынарал
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mynaral, Kazakhstan
+  -
+      ID: 14137
+      FullName: Мясокомбинат, Казахстан
+      CityName: Мясокомбинат
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Myasokombinat, Kazakhstan
+  -
+      ID: 14138
+      FullName: Наурзум, Казахстан
+      CityName: Наурзум
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Naurzum, Kazakhstan
+  -
+      ID: 14139
+      FullName: Неженка, Казахстан
+      CityName: Неженка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Nezhenka, Kazakhstan
+  -
+      ID: 14140
+      FullName: Новая Бухтарма, Казахстан
+      CityName: Новая Бухтарма
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novaya Bukhtarma, Kazakhstan
+  -
+      ID: 14141
+      FullName: Новая Сорга, Казахстан
+      CityName: Новая Сорга
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novaya Sorga, Kazakhstan
+  -
+      ID: 14142
+      FullName: Новоджамбул, Казахстан
+      CityName: Новоджамбул
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novodzhambul, Kazakhstan
+  -
+      ID: 14143
+      FullName: Новоишимский, Казахстан
+      CityName: Новоишимский
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novoishimskij, Kazakhstan
+  -
+      ID: 14144
+      FullName: Обсерватория, Казахстан
+      CityName: Обсерватория
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Observatoriya, Kazakhstan
+  -
+      ID: 14145
+      FullName: Озерки, Казахстан
+      CityName: Озерки
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ozerki, Kazakhstan
+  -
+      ID: 14146
+      FullName: Опытное Поле, Казахстан
+      CityName: Опытное Поле
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Opytnoe Pole, Kazakhstan
+  -
+      ID: 14147
+      FullName: Ораимбек, Казахстан
+      CityName: Ораимбек
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Oraimbek, Kazakhstan
+  -
+      ID: 14148
+      FullName: Отеген Батыра, Казахстан
+      CityName: Отеген Батыра
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Otegen Batyra, Kazakhstan
+  -
+      ID: 14149
+      FullName: Переметное, Казахстан
+      CityName: Переметное
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Peremetnoe, Kazakhstan
+  -
+      ID: 14150
+      FullName: Петерфельд, Казахстан
+      CityName: Петерфельд
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Peterfel''d, Kazakhstan'
+  -
+      ID: 14151
+      FullName: Подстанция КЕГОК, Казахстан
+      CityName: Подстанция КЕГОК
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Podstantsiya KEGOK, Kazakhstan
+  -
+      ID: 14152
+      FullName: Подстепное, Казахстан
+      CityName: Подстепное
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Podstepnoe, Kazakhstan
+  -
+      ID: 14153
+      FullName: Пойма, Казахстан
+      CityName: Пойма
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Pojma, Kazakhstan
+  -
+      ID: 14154
+      FullName: Половинки, Казахстан
+      CityName: Половинки
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Polovinki, Kazakhstan
+  -
+      ID: 14155
+      FullName: Прапорщиково, Казахстан
+      CityName: Прапорщиково
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Praporschikovo, Kazakhstan
+  -
+      ID: 14156
+      FullName: Прибрежное, Казахстан
+      CityName: Прибрежное
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Pribrezhnoe, Kazakhstan
+  -
+      ID: 14157
+      FullName: Пригородный, Казахстан
+      CityName: Пригородный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Prigorodnyj, Kazakhstan
+  -
+      ID: 14158
+      FullName: Прииртышское, Казахстан
+      CityName: Прииртышское
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Priirtyshskoe, Kazakhstan
+  -
+      ID: 14159
+      FullName: Приозерный, Казахстан
+      CityName: Приозерный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Priozernyj, Kazakhstan
+  -
+      ID: 14160
+      FullName: Приречное, Казахстан
+      CityName: Приречное
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Prirechnoe, Kazakhstan
+  -
+      ID: 14161
+      FullName: Промзона, Казахстан
+      CityName: Промзона
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Promzona, Kazakhstan
+  -
+      ID: 14162
+      FullName: Промышленный, Казахстан
+      CityName: Промышленный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Promyshlennyj, Kazakhstan
+  -
+      ID: 14163
+      FullName: Птицефабрика, Казахстан
+      CityName: Птицефабрика
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ptitsefabrika, Kazakhstan
+  -
+      ID: 14164
+      FullName: Район второго кирпичного завода, Казахстан
+      CityName: Район второго кирпичного завода
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Rajon vtorogo kirpichnogo zavoda, Kazakhstan
+  -
+      ID: 14165
+      FullName: Ремизовка, Казахстан
+      CityName: Ремизовка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Remizovka, Kazakhstan
+  -
+      ID: 16880
+      FullName: Розовка с, Павлодарская обл, Казахстан
+      CityName: Розовка с, Павлодарская обл
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName:
+  -
+      ID: 14166
+      FullName: Садовая, Казахстан
+      CityName: Садовая
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sadovaya, Kazakhstan
+  -
+      ID: 14167
+      FullName: Сайрам, Казахстан
+      CityName: Сайрам
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sajram, Kazakhstan
+  -
+      ID: 14168
+      FullName: Сайхин, Казахстан
+      CityName: Сайхин
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sajkhin, Kazakhstan
+  -
+      ID: 14169
+      FullName: Саксаульское, Казахстан
+      CityName: Саксаульское
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Saksaul''skoe, Kazakhstan'
+  -
+      ID: 14170
+      FullName: Сарнагай, Казахстан
+      CityName: Сарнагай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sarnagaj, Kazakhstan
+  -
+      ID: 14171
+      FullName: Сарыбулак, Казахстан
+      CityName: Сарыбулак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sarybulak, Kazakhstan
+  -
+      ID: 14172
+      FullName: Сарыкамыс, Казахстан
+      CityName: Сарыкамыс
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sarykamys, Kazakhstan
+  -
+      ID: 14173
+      FullName: Сарыкемер, Казахстан
+      CityName: Сарыкемер
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sarykemer, Kazakhstan
+  -
+      ID: 14174
+      FullName: Сарыколь, Казахстан
+      CityName: Сарыколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Sarykol'', Kazakhstan'
+  -
+      ID: 14175
+      FullName: Сат Оперейтинг, Казахстан
+      CityName: Сат Оперейтинг
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sat Operejting, Kazakhstan
+  -
+      ID: 14176
+      FullName: Сатпаев, Казахстан
+      CityName: Сатпаев
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Satpaev, Kazakhstan
+  -
+      ID: 14177
+      FullName: Саумалколь, Казахстан
+      CityName: Саумалколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Saumalkol'', Kazakhstan'
+  -
+      ID: 14178
+      FullName: Сах.поселок, Казахстан
+      CityName: Сах.поселок
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sakh.poselok, Kazakhstan
+  -
+      ID: 14179
+      FullName: Сев.Восточный, Казахстан
+      CityName: Сев.Восточный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sev.Vostochnyj, Kazakhstan
+  -
+      ID: 14180
+      FullName: Север промзона, Казахстан
+      CityName: Север промзона
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sever promzona, Kazakhstan
+  -
+      ID: 14181
+      FullName: Секисовка, Казахстан
+      CityName: Секисовка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sekisovka, Kazakhstan
+  -
+      ID: 14182
+      FullName: Селикатный, Казахстан
+      CityName: Селикатный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Selikatnyj, Kazakhstan
+  -
+      ID: 14183
+      FullName: Серебряково, Казахстан
+      CityName: Серебряково
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Serebryakovo, Kazakhstan
+  -
+      ID: 14184
+      FullName: Симферополь, Казахстан
+      CityName: Симферополь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Simferopol'', Kazakhstan'
+  -
+      ID: 14185
+      FullName: Смирново, Казахстан
+      CityName: Смирново
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Smirnovo, Kazakhstan
+  -
+      ID: 14187
+      FullName: СЭЗ, Казахстан
+      CityName: СЭЗ
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SEZ, Kazakhstan
+  -
+      ID: 14188
+      FullName: Тайынша, Казахстан
+      CityName: Тайынша
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tajynsha, Kazakhstan
+  -
+      ID: 14189
+      FullName: Талица, Казахстан
+      CityName: Талица
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Talitsa, Kazakhstan
+  -
+      ID: 14190
+      FullName: Тарановка, Казахстан
+      CityName: Тарановка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Taranovka, Kazakhstan
+  -
+      ID: 14191
+      FullName: Тарханка, Казахстан
+      CityName: Тарханка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tarkhanka, Kazakhstan
+  -
+      ID: 14193
+      FullName: Тасай-Кызылсай, Казахстан
+      CityName: Тасай-Кызылсай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tasaj-Kyzylsaj, Kazakhstan
+  -
+      ID: 14192
+      FullName: Таскала, Казахстан
+      CityName: Таскала
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Taskala, Kazakhstan
+  -
+      ID: 14194
+      FullName: ТАТЭК, Казахстан
+      CityName: ТАТЭК
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: TATEK, Kazakhstan
+  -
+      ID: 14195
+      FullName: Таукент, Казахстан
+      CityName: Таукент
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Taukent, Kazakhstan
+  -
+      ID: 14196
+      FullName: Тельмана, Казахстан
+      CityName: Тельмана
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Tel''mana, Kazakhstan'
+  -
+      ID: 14197
+      FullName: Темир, Казахстан
+      CityName: Темир
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Temir, Kazakhstan
+  -
+      ID: 14198
+      FullName: Теректи, Казахстан
+      CityName: Теректи
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Terekti, Kazakhstan
+  -
+      ID: 14200
+      FullName: Тимирязево, Казахстан
+      CityName: Тимирязево
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Timiryazevo, Kazakhstan
+  -
+      ID: 14201
+      FullName: Титова, Казахстан
+      CityName: Титова
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Titova, Kazakhstan
+  -
+      ID: 14203
+      FullName: Торетам, Казахстан
+      CityName: Торетам
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Toretam, Kazakhstan
+  -
+      ID: 14204
+      FullName: Торткудук, Казахстан
+      CityName: Торткудук
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tortkuduk, Kazakhstan
+  -
+      ID: 14205
+      FullName: Троицк, Казахстан
+      CityName: Троицк
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Troitsk, Kazakhstan
+  -
+      ID: 14206
+      FullName: Тулпар, Казахстан
+      CityName: Тулпар
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tulpar, Kazakhstan
+  -
+      ID: 14207
+      FullName: Тургень, Казахстан
+      CityName: Тургень
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Turgen'', Kazakhstan'
+  -
+      ID: 14208
+      FullName: ТЭЦ р.Урал, Казахстан
+      CityName: ТЭЦ р.Урал
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: TETS r.Ural, Kazakhstan
+  -
+      ID: 14209
+      FullName: Тюлькубас, Казахстан
+      CityName: Тюлькубас
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Tyul''kubas, Kazakhstan'
+  -
+      ID: 14210
+      FullName: Узунколь, Казахстан
+      CityName: Узунколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Uzunkol'', Kazakhstan'
+  -
+      ID: 14211
+      FullName: Умирзак, Казахстан
+      CityName: Умирзак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Umirzak, Kazakhstan
+  -
+      ID: 14212
+      FullName: Успенка, Казахстан
+      CityName: Успенка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Uspenka, Kazakhstan
+  -
+      ID: 14213
+      FullName: Фабричный, Казахстан
+      CityName: Фабричный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Fabrichnyj, Kazakhstan
+  -
+      ID: 14214
+      FullName: Федеровка, Казахстан
+      CityName: Федеровка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Federovka, Kazakhstan
+  -
+      ID: 14215
+      FullName: Хантау, Казахстан
+      CityName: Хантау
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: KHantau, Kazakhstan
+  -
+      ID: 14216
+      FullName: Хим.пром, Казахстан
+      CityName: Хим.пром
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: KHim.prom, Kazakhstan
+  -
+      ID: 14217
+      FullName: Хобда, Казахстан
+      CityName: Хобда
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: KHobda, Kazakhstan
+  -
+      ID: 14218
+      FullName: Хоргос, Казахстан
+      CityName: Хоргос
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: KHorgos, Kazakhstan
+  -
+      ID: 14219
+      FullName: Чапаевка, Казахстан
+      CityName: Чапаевка
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHapaevka, Kazakhstan
+  -
+      ID: 14220
+      FullName: Чапаево, Казахстан
+      CityName: Чапаево
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHapaevo, Kazakhstan
+  -
+      ID: 14221
+      FullName: Чемолган, Казахстан
+      CityName: Чемолган
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHemolgan, Kazakhstan
+  -
+      ID: 14222
+      FullName: Чингирлау, Казахстан
+      CityName: Чингирлау
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHingirlau, Kazakhstan
+  -
+      ID: 14223
+      FullName: Чубары, Казахстан
+      CityName: Чубары
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHubary, Kazakhstan
+  -
+      ID: 14224
+      FullName: Чумыр, Казахстан
+      CityName: Чумыр
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHumyr, Kazakhstan
+  -
+      ID: 14225
+      FullName: Шалкар, Казахстан
+      CityName: Шалкар
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHalkar, Kazakhstan
+  -
+      ID: 14226
+      FullName: Шанхай, Казахстан
+      CityName: Шанхай
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHankhaj, Kazakhstan
+  -
+      ID: 14227
+      FullName: Шахан, Казахстан
+      CityName: Шахан
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHakhan, Kazakhstan
+  -
+      ID: 14228
+      FullName: Шетпе, Казахстан
+      CityName: Шетпе
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHetpe, Kazakhstan
+  -
+      ID: 14230
+      FullName: Шиели, Казахстан
+      CityName: Шиели
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHieli, Kazakhstan
+  -
+      ID: 14231
+      FullName: Шипово, Казахстан
+      CityName: Шипово
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHipovo, Kazakhstan
+  -
+      ID: 14232
+      FullName: Шоптыколь, Казахстан
+      CityName: Шоптыколь
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SHoptykol'', Kazakhstan'
+  -
+      ID: 14233
+      FullName: Шортадинский, Казахстан
+      CityName: Шортадинский
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHortadinskij, Kazakhstan
+  -
+      ID: 14234
+      FullName: Шу, Казахстан
+      CityName: Шу
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHu, Kazakhstan
+  -
+      ID: 14235
+      FullName: Шубарши, Казахстан
+      CityName: Шубарши
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHubarshi, Kazakhstan
+  -
+      ID: 14236
+      FullName: Щапово, Казахстан
+      CityName: Щапово
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: SCHapovo, Kazakhstan
+  -
+      ID: 14237
+      FullName: Ынтымак, Казахстан
+      CityName: Ынтымак
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: Yntymak, Kazakhstan
+  -
+      ID: 14238
+      FullName: Южный, Казахстан
+      CityName: Южный
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: YUzhnyj, Kazakhstan
+  -
+      ID: 4679
+      FullName: Акколь, Акмолинская обл, Казахстан
+      CityName: Акколь, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Akkol'', Akmolinskaya obl, Kazakhstan'
+  -
+      ID: 4687
+      FullName: Аксу, Акмолинская обл, Казахстан
+      CityName: Аксу, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aksu, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4961
+      FullName: Астана, Акмолинская обл.
+      CityName: Астана, Акмолинская обл.
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Astana, Akmolinskaya obl.
+  -
+      ID: 6849
+      FullName: Державинск, Акмолинская обл, Казахстан
+      CityName: Державинск, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Derzhavinsk, Akmolinskaya obl, Kazakhstan
+  -
+      ID: 7118
+      FullName: Ерейментау, Акмолинская обл., Казахстан
+      CityName: Ерейментау, Акмолинская обл.
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Erejmentau, Akmolinskaya obl., Kazakhstan
+  -
+      ID: 15471
+      FullName: Ерейметау, Казахстан
+      CityName: Ерейметау
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Erejmetau, Kazakhstan
+  -
+      ID: 7121
+      FullName: Есиль, Акмолинская обл, Казахстан
+      CityName: Есиль, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Esil'', Akmolinskaya obl, Kazakhstan'
+  -
+      ID: 15695
+      FullName: Коянды, Казахстан
+      CityName: Коянды
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koyandy, Kazakhstan
+  -
+      ID: 8896
+      FullName: Макинск, Акмолинская обл, Казахстан
+      CityName: Макинск, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Makinsk, Akmolinskaya obl, Kazakhstan
+  -
+      ID: 11387
+      FullName: Степногорск, Акмолинская обл., Казахстан
+      CityName: Степногорск, Акмолинская обл.
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Stepnogorsk, Akmolinskaya obl., Kazakhstan
+  -
+      ID: 11388
+      FullName: Степняк, Акмолинская обл, Казахстан
+      CityName: Степняк, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Stepnyak, Akmolinskaya obl, Kazakhstan
+  -
+      ID: 12796
+      FullName: Щучинск, Акмолинская обл, Казахстан
+      CityName: Щучинск, Акмолинская обл
+      OblName: Акмолинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SCHuchinsk, Akmolinskaya obl, Kazakhstan
+  -
+      ID: 4698
+      FullName: Акшам, Актюбинская обл., Казахстан
+      CityName: Акшам, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aksham, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 4712
+      FullName: Алга, Актюбинская обл., Казахстан
+      CityName: Алга, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Alga, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 5066
+      FullName: Байганин, Актюбинская обл., Казахстан
+      CityName: Байганин, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bajganin, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 5191
+      FullName: Батамшинский, Актюбинская обл., Казахстан
+      CityName: Батамшинский, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Batamshinskij, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 15467
+      FullName: Жем, Актюбинская обл, Казахстан
+      CityName: Жем, Актюбинская обл
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHem, Aktyubinskaya obl, Kazakhstan
+  -
+      ID: 7376
+      FullName: Иргиз, Актюбинская обл., Казахстан
+      CityName: Иргиз, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Irgiz, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 7665
+      FullName: Карабутак, Актюбинская обл., Казахстан
+      CityName: Карабутак, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karabutak, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 9009
+      FullName: Мартук, Актюбинская обл., Казахстан
+      CityName: Мартук, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Martuk, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 9551
+      FullName: Новоалексеевка, Актюбинская обл., Казахстан
+      CityName: Новоалексеевка, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novoalekseevka, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 9842
+      FullName: Октябрьск, Актюбинская обл., Казахстан
+      CityName: Октябрьск, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Oktyabr''sk, Aktyubinskaya obl., Kazakhstan'
+  -
+      ID: 11852
+      FullName: Уил, Актюбинская обл., Казахстан
+      CityName: Уил, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Uil, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 12437
+      FullName: Хромтау, Актюбинская обл., Казахстан
+      CityName: Хромтау, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: KHromtau, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 12536
+      FullName: Челкар, Актюбинская обл., Казахстан
+      CityName: Челкар, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHelkar, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 12777
+      FullName: Шубаркудук, Актюбинская обл., Казахстан
+      CityName: Шубаркудук, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHubarkuduk, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 12876
+      FullName: Эмба, Актюбинская обл., Казахстан
+      CityName: Эмба, Актюбинская обл.
+      OblName: Актюбинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Emba, Aktyubinskaya obl., Kazakhstan
+  -
+      ID: 15400
+      FullName: Аймен, Казахстан
+      CityName: Аймен
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ajmen, Kazakhstan
+  -
+      ID: 4756
+      FullName: Алматы
+      CityName: Алматы
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Almaty
+  -
+      ID: 5084
+      FullName: Баканас, Алма-Атинская обл., Казахстан
+      CityName: Баканас, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bakanas, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 5726
+      FullName: Бурундай, Алма-Атинская обл., Казахстан
+      CityName: Бурундай, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Burundaj, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 15468
+      FullName: Есик, Алматинская обл, Казахстан
+      CityName: Есик, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Esik, Almatinskaya obl, Kazakhstan
+  -
+      ID: 7392
+      FullName: Иссык, Алма-Атинская обл., Казахстан
+      CityName: Иссык, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Issyk, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 7656
+      FullName: Капчагай, Алма-Атинская обл., Казахстан
+      CityName: Капчагай, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kapchagaj, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 7735
+      FullName: Каскелен, Алма-Атинская обл., Казахстан
+      CityName: Каскелен, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kaskelen, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 14305
+      FullName: Мерей, Карасайский р-н, Казахстан
+      CityName: Мерей, Карасайский р-н
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Merej, Karasajskij r-n, Kazakhstan
+  -
+      ID: 9460
+      FullName: Нарынкол, Алма-Атинская обл., Казахстан
+      CityName: Нарынкол, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Narynkol, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 15401
+      FullName: Первомайский, Казахстан
+      CityName: Первомайский
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Pervomajskij, Kazakhstan
+  -
+      ID: 10961
+      FullName: Сарканд, Алматинская обл, Казахстан
+      CityName: Сарканд, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sarkand, Almatinskaya obl, Kazakhstan
+  -
+      ID: 11489
+      FullName: Талгар, Алма-Атинская обл., Казахстан
+      CityName: Талгар, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Talgar, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 11490
+      FullName: Талдыкорган, Алматинская обл, Казахстан
+      CityName: Талдыкорган, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Taldykorgan, Almatinskaya obl, Kazakhstan
+  -
+      ID: 11570
+      FullName: Текели, Алматинская обл, Казахстан
+      CityName: Текели, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tekeli, Almatinskaya obl, Kazakhstan
+  -
+      ID: 11851
+      FullName: Узунагач, Алма-Атинская обл., Казахстан
+      CityName: Узунагач, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Uzunagach, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 15469
+      FullName: Ушарал, Алматинская обл, Казахстан
+      CityName: Ушарал, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Usharal, Almatinskaya obl, Kazakhstan
+  -
+      ID: 11916
+      FullName: Уштобе, Алматинская обл, Казахстан
+      CityName: Уштобе, Алматинская обл
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ushtobe, Almatinskaya obl, Kazakhstan
+  -
+      ID: 12604
+      FullName: Чилик, Алма-Атинская обл., Казахстан
+      CityName: Чилик, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHilik, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 12651
+      FullName: Чунджа, Алма-Атинская обл., Казахстан
+      CityName: Чунджа, Алма-Атинская обл.
+      OblName: Алма-Атинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHundzha, Alma-Atinskaya obl., Kazakhstan
+  -
+      ID: 6388
+      FullName: Ганюшкино, Атырауская обл, Казахстан
+      CityName: Ганюшкино, Атырауская обл
+      OblName: Атырауская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ganyushkino, Atyrauskaya obl, Kazakhstan
+  -
+      ID: 15479
+      FullName: Жаскайрат, Атырауская обл, Казахстан
+      CityName: Жаскайрат, Атырауская обл
+      OblName: Атырауская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHaskajrat, Atyrauskaya obl, Kazakhstan
+  -
+      ID: 7348
+      FullName: Индерборский, Атырауская обл, Казахстан
+      CityName: Индерборский, Атырауская обл
+      OblName: Атырауская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Inderborskij, Atyrauskaya obl, Kazakhstan
+  -
+      ID: 15480
+      FullName: Тенгиз, Атырауская обл, Казахстан
+      CityName: Тенгиз, Атырауская обл
+      OblName: Атырауская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tengiz, Atyrauskaya obl, Kazakhstan
+  -
+      ID: 5041
+      FullName: Аягуз, Восточно-Казахстанская обл, Казахстан
+      CityName: Аягуз, Восточно-Казахстанская обл
+      OblName: Восточно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ayaguz, Vostochno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 15481
+      FullName: Семей (Семипалатинск), Восточно-Казахстанская обл,
+      CityName: Семей (Семипалатинск), Восточно-Казахстанская обл
+      OblName: Восточно-Казахстанская обл.
+      Center: '*'
+      NalSumLimit: 0.00
+      EngName: Semej (Semipalatinsk), Vostochno-Kazakhstanskaya obl,
+  -
+      ID: 15482
+      FullName: Шар, Восточно-Казахстанская обл, Казахстан
+      CityName: Шар, Восточно-Казахстанская обл
+      OblName: Восточно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHar, Vostochno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 4672
+      FullName: Акжар, Восточно-Казахстанская обл., Казахстан
+      CityName: Акжар, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akzhar, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 4732
+      FullName: Алексеевка, Восточно-Казахстанская обл., Казахстан
+      CityName: Алексеевка, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Alekseevka, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 4967
+      FullName: Асубулак, Восточно-Казахстанская обл., Казахстан
+      CityName: Асубулак, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Asubulak, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 5293
+      FullName: Белогорский, Восточно-Казахстанская обл., Казахста
+      CityName: Белогорский, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Belogorskij, Vostochno-Kazakhstanskaya obl., Kazakhsta
+  -
+      ID: 5304
+      FullName: Белоусовка, Восточно-Казахстанская обл., Казахстан
+      CityName: Белоусовка, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Belousovka, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 5996
+      FullName: Верхнеберезовский, Восточно-Казахстанская обл., Ка
+      CityName: Верхнеберезовский, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Verkhneberezovskij, Vostochno-Kazakhstanskaya obl., Ka
+  -
+      ID: 6509
+      FullName: Глубокое, Восточно-Казахстанская обл., Казахстан
+      CityName: Глубокое, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Glubokoe, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 7187
+      FullName: Зайсан, Восточно-Казахстанская обл., Казахстан
+      CityName: Зайсан, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zajsan, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 7271
+      FullName: Зыряновск, Восточно-Казахстанская обл., Казахстан
+      CityName: Зыряновск, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zyryanovsk, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 7671
+      FullName: Карагужиха, Восточно-Казахстанская обл., Казахстан
+      CityName: Карагужиха, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karaguzhikha, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 7761
+      FullName: Катон-Карагай, Восточно-Казахстанская обл., Казахс
+      CityName: Катон-Карагай, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Katon-Karagaj, Vostochno-Kazakhstanskaya obl., Kazakhs
+  -
+      ID: 8377
+      FullName: Курчум, Восточно-Казахстанская обл., Казахстан
+      CityName: Курчум, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kurchum, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 8588
+      FullName: Лениногорск, Восточно-Казахстанская обл., Казахста
+      CityName: Лениногорск, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Leninogorsk, Vostochno-Kazakhstanskaya obl., Kazakhsta
+  -
+      ID: 14338
+      FullName: Риддер, Казахстан
+      CityName: Риддер
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ridder, Kazakhstan
+  -
+      ID: 10823
+      FullName: Самарское, Восточно-Казахстанская обл., Казахстан
+      CityName: Самарское, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Samarskoe, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 11150
+      FullName: Серебрянск, Восточно-Казахстанская обл., Казахстан
+      CityName: Серебрянск, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Serebryansk, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 11903
+      FullName: Усть-Каменогорск, Восточно-Казахстанская обл.
+      CityName: Усть-Каменогорск, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: 'Ust''-Kamenogorsk, Vostochno-Kazakhstanskaya obl.'
+  -
+      ID: 12725
+      FullName: Шемонаиха, Восточно-Казахстанская обл., Казахстан
+      CityName: Шемонаиха, Восточно-Казахстанская обл.
+      OblName: Восточно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHemonaikha, Vostochno-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 5077
+      FullName: Байчунас, Гурьевская обл., Казахстан
+      CityName: Байчунас, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bajchunas, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 5129
+      FullName: Балыкши, Гурьевская обл., Казахстан
+      CityName: Балыкши, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Balykshi, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 6991
+      FullName: Доссор, Гурьевская обл., Казахстан
+      CityName: Доссор, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dossor, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 7386
+      FullName: Искининский, Гурьевская обл., Казахстан
+      CityName: Искининский, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Iskininskij, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 7679
+      FullName: Каратон, Гурьевская обл., Казахстан
+      CityName: Каратон, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Karaton, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 8349
+      FullName: Кульсары, Атырауская обл., Казахстан
+      CityName: Кульсары, Атырауская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kul''sary, Atyrauskaya obl., Kazakhstan'
+  -
+      ID: 8892
+      FullName: Макат, Гурьевская обл., Казахстан
+      CityName: Макат, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Makat, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 9251
+      FullName: Миялы, Гурьевская обл., Казахстан
+      CityName: Миялы, Гурьевская обл.
+      OblName: Гурьевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Miyaly, Gur''evskaya obl., Kazakhstan'
+  -
+      ID: 4613
+      FullName: Агадырь, Джезказганская обл., Казахстан
+      CityName: Агадырь, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Agadyr'', Dzhezkazganskaya obl., Kazakhstan'
+  -
+      ID: 4670
+      FullName: Акжал, Джезказганская обл., Казахстан
+      CityName: Акжал, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akzhal, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 4689
+      FullName: Актас, Джезказганская обл., Казахстан
+      CityName: Актас, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aktas, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 4974
+      FullName: Атасу, Джезказганская обл., Казахстан
+      CityName: Атасу, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Atasu, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 6283
+      FullName: Восточно-Коунрадский, Джезказганская обл., Казахст
+      CityName: Восточно-Коунрадский, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vostochno-Kounradskij, Dzhezkazganskaya obl., Kazakhst
+  -
+      ID: 6706
+      FullName: Гульшад, Джезказганская обл., Казахстан
+      CityName: Гульшад, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gul''shad, Dzhezkazganskaya obl., Kazakhstan'
+  -
+      ID: 6783
+      FullName: Дарьинский, Джезказганская обл., Казахстан
+      CityName: Дарьинский, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dar''inskij, Dzhezkazganskaya obl., Kazakhstan'
+  -
+      ID: 6872
+      FullName: Джамбул, Джезказганская обл., Казахстан
+      CityName: Джамбул, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhambul, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 6882
+      FullName: Джезды, Джезказганская обл., Казахстан
+      CityName: Джезды, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhezdy, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 6883
+      FullName: Джезказган, Джезказганская обл., Казахстан
+      CityName: Джезказган, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhezkazgan, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 7139
+      FullName: Жарык, Джезказганская обл., Казахстан
+      CityName: Жарык, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHaryk, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 7541
+      FullName: Кайракты, Джезказганская обл., Казахстан
+      CityName: Кайракты, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kajrakty, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 9525
+      FullName: Никольский, Джезказганская обл., Казахстан
+      CityName: Никольский, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Nikol''skij, Dzhezkazganskaya obl., Kazakhstan'
+  -
+      ID: 10970
+      FullName: Сарышаган, Джезказганская обл., Казахстан
+      CityName: Сарышаган, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Saryshagan, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 11863
+      FullName: Улытау, Джезказганская обл., Казахстан
+      CityName: Улытау, Джезказганская обл.
+      OblName: Джезказганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ulytau, Dzhezkazganskaya obl., Kazakhstan
+  -
+      ID: 15483
+      FullName: Айша-Биби, Жамбылская обл, Казахстан
+      CityName: Айша-Биби, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ajsha-Bibi, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 5070
+      FullName: Байкадам, Жамбылская обл, Казахстан
+      CityName: Байкадам, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bajkadam, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 5649
+      FullName: Брлик, Жамбылская обл, Казахстан
+      CityName: Брлик, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Brlik, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 5723
+      FullName: Бурное, Жамбылская обл, Казахстан
+      CityName: Бурное, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Burnoe, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 6445
+      FullName: Георгиевка, Жамбылская обл, Казахстан
+      CityName: Георгиевка, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Georgievka, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 6610
+      FullName: Гранитогорск, Жамбылская обл, Казахстан
+      CityName: Гранитогорск, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Granitogorsk, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 6871
+      FullName: Джамбул, Жамбылская обл, Казахстан
+      CityName: Джамбул, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhambul, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 15484
+      FullName: Ерназар, Казахстан
+      CityName: Ерназар
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ernazar, Kazakhstan
+  -
+      ID: 7136
+      FullName: Жанатас, Жамбылская обл, Казахстан
+      CityName: Жанатас, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHanatas, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 7677
+      FullName: Каратау, Жамбылская обл, Казахстан
+      CityName: Каратау, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karatau, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 8062
+      FullName: Коктал, Жамбылская обл, Казахстан
+      CityName: Коктал, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Koktal, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 8793
+      FullName: Луговое, Жамбылская обл, Казахстан
+      CityName: Луговое, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Lugovoe, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 9123
+      FullName: Мерке, Жамбылская обл, Казахстан
+      CityName: Мерке, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Merke, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 9244
+      FullName: Михайловка, Жамбылская обл, Казахстан
+      CityName: Михайловка, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mikhajlovka, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 9564
+      FullName: Новотроицкое, Жамбылская обл, Казахстан
+      CityName: Новотроицкое, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novotroitskoe, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 9826
+      FullName: Ойтал, Жамбылская обл, Казахстан
+      CityName: Ойтал, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ojtal, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 9989
+      FullName: Отар, Жамбылская обл, Казахстан
+      CityName: Отар, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Otar, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 15485
+      FullName: Степное, Жамбылская обл, Казахстан
+      CityName: Степное, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Stepnoe, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 11518
+      FullName: Тараз, Жамбылская обл
+      CityName: Тараз, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center: '*'
+      NalSumLimit: no limit
+      EngName: Taraz, ZHambylskaya obl
+  -
+      ID: 15486
+      FullName: Татты, Жамбылская обл, Казахстан
+      CityName: Татты, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tatty, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 14202
+      FullName: Толе Би, Жамбылская обл, Казахстан
+      CityName: Толе Би, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tole Bi, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 12138
+      FullName: Фурмановка, Жамбылская обл, Казахстан
+      CityName: Фурмановка, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Furmanovka, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 12589
+      FullName: Чиганак, Жамбылская обл, Казахстан
+      CityName: Чиганак, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHiganak, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 12644
+      FullName: Чу, Жамбылская обл, Казахстан
+      CityName: Чу, Жамбылская обл
+      OblName: Жамбылская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHu, ZHambylskaya obl, Kazakhstan
+  -
+      ID: 15488
+      FullName: Жангала, Западно-Казахстанская обл, Казахстан
+      CityName: Жангала, Западно-Казахстанская обл
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHangala, Zapadno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 15489
+      FullName: Казталовка, Западно-Казахстанская обл, Казахстан
+      CityName: Казталовка, Западно-Казахстанская обл
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kaztalovka, Zapadno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 15490
+      FullName: Тайпак, Казахстан
+      CityName: Тайпак
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tajpak, Kazakhstan
+  -
+      ID: 15491
+      FullName: Трекино, Западно-Казахстанская обл, Казахстан
+      CityName: Трекино, Западно-Казахстанская обл
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Trekino, Zapadno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 11884
+      FullName: Уральска, Западно-Казахстанская обл., Казахстан
+      CityName: Уральска, Западно-Казахстанская обл.
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ural''ska, Zapadno-Kazakhstanskaya obl., Kazakhstan'
+  -
+      ID: 15492
+      FullName: Федоровка, Западно-Казахстанская обл, Казахстан
+      CityName: Федоровка, Западно-Казахстанская обл
+      OblName: Западно-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Fedorovka, Zapadno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 13982
+      FullName: Айтеке-Би, Казахстан
+      CityName: Айтеке-Би
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ajteke-Bi, Kazakhstan
+  -
+      ID: 4660
+      FullName: Ак-Коль, Казахстан, Казахстан
+      CityName: Ак-Коль, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ak-Kol'', Kazakhstan, Kazakhstan'
+  -
+      ID: 4693
+      FullName: Актобе, Казахстан
+      CityName: Актобе, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: no limit
+      EngName: Aktobe, Kazakhstan, Kazakhstan
+  -
+      ID: 4699
+      FullName: Акший, Казахстан, Казахстан
+      CityName: Акший, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akshij, Kazakhstan, Kazakhstan
+  -
+      ID: 4950
+      FullName: Аршалы, Казахстан, Казахстан
+      CityName: Аршалы, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Arshaly, Kazakhstan, Kazakhstan
+  -
+      ID: 4975
+      FullName: Атбасар, Казахстан, Казахстан
+      CityName: Атбасар, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Atbasar, Kazakhstan, Kazakhstan
+  -
+      ID: 4994
+      FullName: Атырау (Гурьев), Атырауская обл.
+      CityName: Атырау (Гурьев), Атырауская обл.
+      OblName: Казахстан
+      Center:
+      NalSumLimit: no limit
+      EngName: 'Atyrau (Gur''ev), Atyrauskaya obl.'
+  -
+      ID: 5071
+      FullName: Байконур, Казахстан, Казахстан
+      CityName: Байконур, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bajkonur, Kazakhstan, Kazakhstan
+  -
+      ID: 5110
+      FullName: Балкашино, Казахстан, Казахстан
+      CityName: Балкашино, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Balkashino, Kazakhstan, Kazakhstan
+  -
+      ID: 7144
+      FullName: Жезказган, Казахстан, Казахстан
+      CityName: Жезказган, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHezkazgan, Kazakhstan, Kazakhstan
+  -
+      ID: 8064
+      FullName: Кокшетау, Казахстан, Казахстан
+      CityName: Кокшетау, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kokshetau, Kazakhstan, Kazakhstan
+  -
+      ID: 8199
+      FullName: Костанай, Казахстан
+      CityName: Костанай
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kostanaj, Kazakhstan, Kazakhstan
+  -
+      ID: 8376
+      FullName: Курчатов, Казахстан, Казахстан
+      CityName: Курчатов, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kurchatov, Kazakhstan, Kazakhstan
+  -
+      ID: 8402
+      FullName: Кызылорда, Казахстан
+      CityName: Кызылорда, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: no limit
+      EngName: Kyzylorda, Kazakhstan
+  -
+      ID: 9066
+      FullName: Махамбет, Казахстан, Казахстан
+      CityName: Махамбет, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: Makhambet, Kazakhstan, Kazakhstan
+  -
+      ID: 11883
+      FullName: Уральск, Казахстан, Казахстан
+      CityName: Уральск, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ural''sk, Kazakhstan, Kazakhstan'
+  -
+      ID: 12787
+      FullName: Шымкент, Казахстан
+      CityName: Шымкент, Казахстан
+      OblName: Казахстан
+      Center:
+      NalSumLimit: no limit
+      EngName: SHymkent, Kazakhstan
+  -
+      ID: 4582
+      FullName: Абай, Карагандинская обл, Казахстан
+      CityName: Абай, Карагандинская обл
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Abaj, Karagandinskaya obl, Kazakhstan
+  -
+      ID: 4690
+      FullName: Актас, Карагандинская обл., Казахстан
+      CityName: Актас, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aktas, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 5125
+      FullName: Балхаш, Карагандинская обл, Казахстан
+      CityName: Балхаш, Карагандинская обл
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Balkhash, Karagandinskaya obl, Kazakhstan
+  -
+      ID: 7082
+      FullName: Егиндыбулак, Карагандинская обл., Казахстан
+      CityName: Егиндыбулак, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Egindybulak, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 7668
+      FullName: Карагайлы, Карагандинская обл., Казахстан
+      CityName: Карагайлы, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karagajly, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 7669
+      FullName: Караганда, Карагандинская обл.
+      CityName: Караганда, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Karaganda, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 7672
+      FullName: Каражал, Карагандинская обл, Казахстан
+      CityName: Каражал, Карагандинская обл
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karazhal, Karagandinskaya obl, Kazakhstan
+  -
+      ID: 7691
+      FullName: Каркаралинск, Карагандинская обл., Казахстан
+      CityName: Каркаралинск, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karkaralinsk, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 7871
+      FullName: Киевка, Карагандинская обл., Казахстан
+      CityName: Киевка, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kievka, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 9966
+      FullName: Осакаровка, Карагандинская обл., Казахстан
+      CityName: Осакаровка, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Osakarovka, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 10953
+      FullName: Сарань, Карагандинская обл., Казахстан
+      CityName: Сарань, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Saran'', Karagandinskaya obl., Kazakhstan'
+  -
+      ID: 11584
+      FullName: Темиртау, Карагандинская обл., Казахстан
+      CityName: Темиртау, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Temirtau, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 11654
+      FullName: Токаревка, Карагандинская обл., Казахстан
+      CityName: Токаревка, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tokarevka, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 11686
+      FullName: Топар, Карагандинская обл., Казахстан
+      CityName: Топар, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Topar, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 11867
+      FullName: Ульяновский, Карагандинская обл., Казахстан
+      CityName: Ульяновский, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ul''yanovskij, Karagandinskaya obl., Kazakhstan'
+  -
+      ID: 12704
+      FullName: Шахтинск, Карагандинская обл., Казахстан
+      CityName: Шахтинск, Карагандинская обл.
+      OblName: Карагандинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHakhtinsk, Karagandinskaya obl., Kazakhstan
+  -
+      ID: 4900
+      FullName: Аралсульфат, Кзыл-Ординская обл., Казахстан
+      CityName: Аралсульфат, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Aralsul''fat, Kzyl-Ordinskaya obl., Kazakhstan'
+  -
+      ID: 6867
+      FullName: Джалагаш, Кзыл-Ординская обл., Казахстан
+      CityName: Джалагаш, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhalagash, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 6920
+      FullName: Джусалы, Кзыл-Ординская обл., Казахстан
+      CityName: Джусалы, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhusaly, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 7518
+      FullName: Казалинск, Кзыл-Ординская обл., Казахстан
+      CityName: Казалинск, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kazalinsk, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 7861
+      FullName: Кзыл-Орда, Кзыл-Ординская обл., Казахстан
+      CityName: Кзыл-Орда, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kzyl-Orda, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 9557
+      FullName: Новоказалинск, Кзыл-Ординская обл., Казахстан
+      CityName: Новоказалинск, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Novokazalinsk, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 11534
+      FullName: Тасбугет, Кзыл-Ординская обл., Казахстан
+      CityName: Тасбугет, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tasbuget, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 12593
+      FullName: Чиили, Кзыл-Ординская обл., Казахстан
+      CityName: Чиили, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHiili, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 12981
+      FullName: Яныкурган, Кзыл-Ординская обл., Казахстан
+      CityName: Яныкурган, Кзыл-Ординская обл.
+      OblName: Кзыл-Ординскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: YAnykurgan, Kzyl-Ordinskaya obl., Kazakhstan
+  -
+      ID: 4639
+      FullName: Айдабул, Кокчетавская обл., Казахстан
+      CityName: Айдабул, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ajdabul, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 4733
+      FullName: Алексеевка, Кокчетавская обл., Казахстан
+      CityName: Алексеевка, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Alekseevka, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 5543
+      FullName: Боровое, Кокчетавская обл., Казахстан
+      CityName: Боровое, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Borovoe, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 6254
+      FullName: Володарское, Кокчетавская обл., Казахстан
+      CityName: Володарское, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Volodarskoe, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 7243
+      FullName: Зеренда, Кокчетавская обл., Казахстан
+      CityName: Зеренда, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Zerenda, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 7810
+      FullName: Келлеровка, Кокчетавская обл., Казахстан
+      CityName: Келлеровка, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kellerovka, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 7862
+      FullName: Кзылту, Кокчетавская обл., Казахстан
+      CityName: Кзылту, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kzyltu, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 8063
+      FullName: Кокчетав, Кокчетавская обл., Казахстан
+      CityName: Кокчетав, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kokchetav, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 8250
+      FullName: Красноармейск, Кокчетавская обл., Казахстан
+      CityName: Красноармейск, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Krasnoarmejsk, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 8266
+      FullName: Красный Яр, Кокчетавская обл., Казахстан
+      CityName: Красный Яр, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Krasnyj YAr, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 8334
+      FullName: Куйбышевский, Кокчетавская обл., Казахстан
+      CityName: Куйбышевский, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kujbyshevskij, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 8586
+      FullName: Ленинградское, Кокчетавская обл., Казахстан
+      CityName: Ленинградское, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Leningradskoe, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 10731
+      FullName: Рузаевка, Кокчетавская обл., Казахстан
+      CityName: Рузаевка, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ruzaevka, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 11498
+      FullName: Талшик, Кокчетавская обл., Казахстан
+      CityName: Талшик, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Talshik, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 12621
+      FullName: Чистополье, Кокчетавская обл., Казахстан
+      CityName: Чистополье, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHistopol''e, Kokchetavskaya obl., Kazakhstan'
+  -
+      ID: 12628
+      FullName: Чкалово, Кокчетавская обл., Казахстан
+      CityName: Чкалово, Кокчетавская обл.
+      OblName: Кокчетавскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHkalovo, Kokchetavskaya obl., Kazakhstan
+  -
+      ID: 4920
+      FullName: Аркалык, Костанайская обл, Казахстан
+      CityName: Аркалык, Костанайская обл
+      OblName: Костанайская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Arkalyk, Kostanajskaya obl, Kazakhstan
+  -
+      ID: 8692
+      FullName: Лисаковск, Костанайская обл, Казахстан
+      CityName: Лисаковск, Костанайская обл
+      OblName: Костанайская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Lisakovsk, Kostanajskaya obl, Kazakhstan
+  -
+      ID: 5545
+      FullName: Боровской, Кустанайская обл., Казахстан
+      CityName: Боровской, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Borovskoj, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 6901
+      FullName: Джетыгара, Кустанайская обл., Казахстан
+      CityName: Джетыгара, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhetygara, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 7218
+      FullName: Затобольск, Кустанайская обл., Казахстан
+      CityName: Затобольск, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Zatobol''sk, Kustanajskaya obl., Kazakhstan'
+  -
+      ID: 7621
+      FullName: Камышное, Кустанайская обл., Казахстан
+      CityName: Камышное, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kamyshnoe, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 8127
+      FullName: Комсомолец, Кустанайская обл., Казахстан
+      CityName: Комсомолец, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Komsomolets, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 8389
+      FullName: Кушмурун, Кустанайская обл., Казахстан
+      CityName: Кушмурун, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kushmurun, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 8592
+      FullName: Ленинское, Кустанайская обл., Казахстан
+      CityName: Ленинское, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Leninskoe, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 9940
+      FullName: Орджоникидзе, Кустанайская обл., Казахстан
+      CityName: Орджоникидзе, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ordzhonikidze, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 10729
+      FullName: Рудный, Кустанайская обл., Казахстан
+      CityName: Рудный, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Rudnyj, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 11118
+      FullName: Семиозерное, Кустанайская обл., Казахстан
+      CityName: Семиозерное, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Semiozernoe, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 11648
+      FullName: Тобол, Кустанайская обл., Казахстан
+      CityName: Тобол, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Tobol, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 11894
+      FullName: Урицкий, Кустанайская обл., Казахстан
+      CityName: Урицкий, Кустанайская обл.
+      OblName: Кустанайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Uritskij, Kustanajskaya obl., Kazakhstan
+  -
+      ID: 4901
+      FullName: Аральск, Кызылординская обл, Казахстан
+      CityName: Аральск, Кызылординская обл
+      OblName: Кызылординская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Aral''sk, Kyzylordinskaya obl, Kazakhstan'
+  -
+      ID: 15493
+      FullName: Жанакорган, Казахстан
+      CityName: Жанакорган
+      OblName: Кызылординская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHanakorgan, Kazakhstan
+  -
+      ID: 14199
+      FullName: Теренозек, Казахстан
+      CityName: Теренозек
+      OblName: Кызылординская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Terenozek, Kazakhstan
+  -
+      ID: 12079
+      FullName: Форт-Шевченко, Мангистаунская обл, Казахстан
+      CityName: Форт-Шевченко, Мангистаунская обл
+      OblName: Мангистаунская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Fort-SHevchenko, Mangistaunskaya obl, Kazakhstan
+  -
+      ID: 5207
+      FullName: Баутино, Мангышлакская обл., Казахстан
+      CityName: Баутино, Мангышлакская обл.
+      OblName: Мангышлакскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bautino, Mangyshlakskaya obl., Kazakhstan
+  -
+      ID: 5235
+      FullName: Бейнеу, Мангышлакская обл., Казахстан
+      CityName: Бейнеу, Мангышлакская обл.
+      OblName: Мангышлакскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bejneu, Mangyshlakskaya obl., Kazakhstan
+  -
+      ID: 9575
+      FullName: Новый Узень, Мангышлакская обл., Казахстан
+      CityName: Новый Узень, Мангышлакская обл.
+      OblName: Мангышлакскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Novyj Uzen'', Mangyshlakskaya obl., Kazakhstan'
+  -
+      ID: 12715
+      FullName: Шевченко, Мангышлакская обл., Казахстан
+      CityName: Шевченко, Мангышлакская обл.
+      OblName: Мангышлакскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHevchenko, Mangyshlakskaya obl., Kazakhstan
+  -
+      ID: 15390
+      FullName: Акку (Лебяжье), Казахстан
+      CityName: Акку (Лебяжье)
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: 'Akku (Lebyazh''e), Kazakhstan'
+  -
+      ID: 7117
+      FullName: Аксу (Ермак), Павлодарская обл., Казахстан
+      CityName: Аксу (Ермак), Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName:
+  -
+      ID: 4694
+      FullName: Актогай (Краснокутск), Павлодарская обл, Казахстан
+      CityName: Актогай (Краснокутск), Павлодарская обл
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Aktogaj, Pavlodarskaya obl, Kazakhstan
+  -
+      ID: 5217
+      FullName: Баянаул, Павлодарская обл., Казахстан
+      CityName: Баянаул, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Bayanaul, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 15495
+      FullName: Ефремовка, Павлодарская обл, Казахстан
+      CityName: Ефремовка, Павлодарская обл
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Efremovka, Pavlodarskaya obl, Kazakhstan
+  -
+      ID: 7147
+      FullName: Железинка, Павлодарская обл., Казахстан
+      CityName: Железинка, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: ZHelezinka, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 7380
+      FullName: Иртышск, Павлодарская обл., Казахстан
+      CityName: Иртышск, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Irtyshsk, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 7570
+      FullName: Калкаман, Павлодарская обл., Казахстан
+      CityName: Калкаман, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Kalkaman, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 8868
+      FullName: Майкаин, Павлодарская обл., Казахстан
+      CityName: Майкаин, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Majkain, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 10020
+      FullName: Павлодар, Павлодарская обл.
+      CityName: Павлодар, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Pavlodar, Pavlodarskaya obl.
+  -
+      ID: 15496
+      FullName: Павлодарское, Павлодарская обл, Казахстан
+      CityName: Павлодарское, Павлодарская обл
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Pavlodarskoe, Pavlodarskaya obl, Kazakhstan
+  -
+      ID: 14186
+      FullName: Солнечный, Павлодарская обл, Казахстан
+      CityName: Солнечный, Павлодарская обл
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Solnechnyj, Kazakhstan
+  -
+      ID: 15497
+      FullName: Теренколь, Павлодарская обл, Казахстан
+      CityName: Теренколь, Павлодарская обл
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: 'Terenkol'', Pavlodarskaya obl, Kazakhstan'
+  -
+      ID: 11899
+      FullName: Успенка, Павлодарская обл., Казахстан
+      CityName: Успенка, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Uspenka, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 14229
+      FullName: Шидерты, Казахстан
+      CityName: Шидерты
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: SHiderty, Kazakhstan
+  -
+      ID: 12790
+      FullName: Щербакты, Павлодарская обл., Казахстан
+      CityName: Щербакты, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: SCHerbakty, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 12830
+      FullName: Экибастуз, Павлодарская обл., Казахстан
+      CityName: Экибастуз, Павлодарская обл.
+      OblName: Павлодарскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Ekibastuz, Pavlodarskaya obl., Kazakhstan
+  -
+      ID: 5447
+      FullName: Благовещенка, Северо-Казахстанская обл., Казахстан
+      CityName: Благовещенка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Blagoveschenka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 5701
+      FullName: Булаево, Северо-Казахстанская обл., Казахстан
+      CityName: Булаево, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bulaevo, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 8171
+      FullName: Корнеевка, Северо-Казахстанская обл., Казахстан
+      CityName: Корнеевка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Korneevka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 8919
+      FullName: Мамлютка, Северо-Казахстанская обл., Казахстан
+      CityName: Мамлютка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Mamlyutka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 10212
+      FullName: Петропавловск, Северо-Казахстанская обл.
+      CityName: Петропавловск, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: no limit
+      EngName: Petropavlovsk, Severo-Kazakhstanskaya obl.
+  -
+      ID: 10381
+      FullName: Пресновка, Северо-Казахстанская обл., Казахстан
+      CityName: Пресновка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Presnovka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 11149
+      FullName: Сергеевка, Северо-Казахстанская обл., Казахстан
+      CityName: Сергеевка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sergeevka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 11281
+      FullName: Соколовка, Северо-Казахстанская обл., Казахстан
+      CityName: Соколовка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Sokolovka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 12950
+      FullName: Явленка, Северо-Казахстанская обл., Казахстан
+      CityName: Явленка, Северо-Казахстанская обл.
+      OblName: Северо-Казахстанскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: YAvlenka, Severo-Kazakhstanskaya obl., Kazakhstan
+  -
+      ID: 4671
+      FullName: Акжал, Семипалатинская обл., Казахстан
+      CityName: Акжал, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akzhal, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 4688
+      FullName: Аксуат, Семипалатинская обл., Казахстан
+      CityName: Аксуат, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aksuat, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 5008
+      FullName: Ауэзов, Семипалатинская обл., Казахстан
+      CityName: Ауэзов, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Auezov, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 5180
+      FullName: Баршатас, Семипалатинская обл., Казахстан
+      CityName: Баршатас, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Barshatas, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 5312
+      FullName: Бельагаш, Семипалатинская обл., Казахстан
+      CityName: Бельагаш, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bel''agash, Semipalatinskaya obl., Kazakhstan'
+  -
+      ID: 5506
+      FullName: Боко, Семипалатинская обл., Казахстан
+      CityName: Боко, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Boko, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 5519
+      FullName: Большая Владимировка, Семипалатинская обл., Казахс
+      CityName: Большая Владимировка, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bol''shaya Vladimirovka, Semipalatinskaya obl., Kazakhs'
+  -
+      ID: 5547
+      FullName: Бородулиха, Семипалатинская обл., Казахстан
+      CityName: Бородулиха, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Borodulikha, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 6447
+      FullName: Георгиевка, Семипалатинская обл., Казахстан
+      CityName: Георгиевка, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Georgievka, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 7137
+      FullName: Жангизтобе, Семипалатинская обл., Казахстан
+      CityName: Жангизтобе, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHangiztobe, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 7138
+      FullName: Жарма, Семипалатинская обл., Казахстан
+      CityName: Жарма, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHarma, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 7540
+      FullName: Кайнар, Семипалатинская обл., Казахстан
+      CityName: Кайнар, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kajnar, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 8061
+      FullName: Кокпекты, Семипалатинская обл., Казахстан
+      CityName: Кокпекты, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kokpekty, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 8889
+      FullName: Маканчи, Семипалатинская обл., Казахстан
+      CityName: Маканчи, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Makanchi, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 9546
+      FullName: Новая Шульба, Семипалатинская обл., Казахстан
+      CityName: Новая Шульба, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Novaya SHul''ba, Semipalatinskaya obl., Kazakhstan'
+  -
+      ID: 11535
+      FullName: Таскескен, Семипалатинская обл., Казахстан
+      CityName: Таскескен, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Taskesken, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 11893
+      FullName: Урджар, Семипалатинская обл., Казахстан
+      CityName: Урджар, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Urdzhar, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 12523
+      FullName: Чарск, Семипалатинская обл., Казахстан
+      CityName: Чарск, Семипалатинская обл.
+      OblName: Семипалатинскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHarsk, Semipalatinskaya obl., Kazakhstan
+  -
+      ID: 4695
+      FullName: Актогай, Талды-Курганская обл., Казахстан
+      CityName: Актогай, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Aktogaj, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 4848
+      FullName: Андреевка, Талды-Курганская обл., Казахстан
+      CityName: Андреевка, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Andreevka, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 6877
+      FullName: Джансугуров, Талды-Курганская обл., Казахстан
+      CityName: Джансугуров, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhansugurov, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 7652
+      FullName: Капал, Талды-Курганская обл., Казахстан
+      CityName: Капал, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kapal, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 7664
+      FullName: Карабулак, Талды-Курганская обл., Казахстан
+      CityName: Карабулак, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Karabulak, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 7924
+      FullName: Кировский, Казахстан
+      CityName: Кировский
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kirovskij, Kazakhstan
+  -
+      ID: 8323
+      FullName: Кугалы, Талды-Курганская обл., Казахстан
+      CityName: Кугалы, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kugaly, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 10074
+      FullName: Панфилов, Талды-Курганская обл., Казахстан
+      CityName: Панфилов, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Panfilov, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 10969
+      FullName: Сарыозек, Талды-Курганская обл., Казахстан
+      CityName: Сарыозек, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Saryozek, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 11911
+      FullName: Учарал, Талды-Курганская обл., Казахстан
+      CityName: Учарал, Талды-Курганская обл.
+      OblName: Талды-Курганскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Ucharal, Taldy-Kurganskaya obl., Kazakhstan
+  -
+      ID: 4799
+      FullName: Амангельды, Тургайская обл., Казахстан
+      CityName: Амангельды, Тургайская обл.
+      OblName: Тургайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Amangel''dy, Turgajskaya obl., Kazakhstan'
+  -
+      ID: 7133
+      FullName: Жаксы, Тургайская обл., Казахстан
+      CityName: Жаксы, Тургайская обл.
+      OblName: Тургайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHaksy, Turgajskaya obl., Kazakhstan
+  -
+      ID: 9844
+      FullName: Октябрьское, Тургайская обл., Казахстан
+      CityName: Октябрьское, Тургайская обл.
+      OblName: Тургайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Oktyabr''skoe, Turgajskaya obl., Kazakhstan'
+  -
+      ID: 11784
+      FullName: Тургай, Тургайская обл., Казахстан
+      CityName: Тургай, Тургайская обл.
+      OblName: Тургайскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Turgaj, Turgajskaya obl., Kazakhstan
+  -
+      ID: 4669
+      FullName: Акбеит, Целиноградская обл., Казахстан
+      CityName: Акбеит, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akbeit, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4681
+      FullName: Акмолинск, Целиноградская обл., Казахстан
+      CityName: Акмолинск, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Akmolinsk, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4734
+      FullName: Алексеевка, Целиноградская обл., Казахстан
+      CityName: Алексеевка, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Alekseevka, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4965
+      FullName: Астраханка, Целиноградская обл., Казахстан
+      CityName: Астраханка, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Astrakhanka, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4970
+      FullName: Атабасар, Целиноградская обл., Казахстан
+      CityName: Атабасар, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Atabasar, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 5111
+      FullName: Балкащино, Целиноградская обл., Казахстан
+      CityName: Балкащино, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Balkaschino, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 5379
+      FullName: Бестобе, Целиноградская обл., Казахстан
+      CityName: Бестобе, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bestobe, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 6231
+      FullName: Вишневка, Целиноградская обл., Казахстан
+      CityName: Вишневка, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vishnevka, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 7135
+      FullName: Жалтыр, Целиноградская обл., Казахстан
+      CityName: Жалтыр, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHaltyr, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 7171
+      FullName: Жолымбет, Целиноградская обл., Казахстан
+      CityName: Жолымбет, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: ZHolymbet, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 8369
+      FullName: Кургальджинский, Целиноградская обл., Казахстан
+      CityName: Кургальджинский, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kurgal''dzhinskij, TSelinogradskaya obl., Kazakhstan'
+  -
+      ID: 12477
+      FullName: Целиноград, Целиноградская обл., Казахстан
+      CityName: Целиноград, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: TSelinograd, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 12767
+      FullName: Шортанды, Целиноградская обл., Казахстан
+      CityName: Шортанды, Целиноградская обл.
+      OblName: Целиноградскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHortandy, TSelinogradskaya obl., Kazakhstan
+  -
+      ID: 4951
+      FullName: Арысь, Чимкентская обл., Казахстан
+      CityName: Арысь, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Arys'', CHimkentskaya obl., Kazakhstan'
+  -
+      ID: 5024
+      FullName: Ачисай, Чимкентская обл., Казахстан
+      CityName: Ачисай, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Achisaj, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 5069
+      FullName: Байжансай, Чимкентская обл., Казахстан
+      CityName: Байжансай, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bajzhansaj, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 5309
+      FullName: Белые Воды, Чимкентская обл., Казахстан
+      CityName: Белые Воды, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Belye Vody, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 5849
+      FullName: Ванновка, Чимкентская обл., Казахстан
+      CityName: Ванновка, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Vannovka, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 6902
+      FullName: Джетысай, Чимкентская обл., Казахстан
+      CityName: Джетысай, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Dzhetysaj, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 7836
+      FullName: Кентау, Чимкентская обл., Казахстан
+      CityName: Кентау, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kentau, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 8583
+      FullName: Ленгер, Чимкентская обл., Казахстан
+      CityName: Ленгер, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Lenger, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 10968
+      FullName: Сарыагач, Чимкентская обл., Казахстан
+      CityName: Сарыагач, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Saryagach, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 11583
+      FullName: Темирлановка, Чимкентская обл., Казахстан
+      CityName: Темирлановка, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Temirlanovka, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 11789
+      FullName: Туркестан, Чимкентская обл., Казахстан
+      CityName: Туркестан, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Turkestan, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 12513
+      FullName: Чардара, Чимкентская обл., Казахстан
+      CityName: Чардара, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHardara, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 12532
+      FullName: Чаян, Чимкентская обл., Казахстан
+      CityName: Чаян, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHayan, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 12610
+      FullName: Чимкент, Чимкентская обл., Казахстан
+      CityName: Чимкент, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHimkent, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 12649
+      FullName: Чулаккурган, Чимкентская обл., Казахстан
+      CityName: Чулаккурган, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: CHulakkurgan, CHimkentskaya obl., Kazakhstan
+  -
+      ID: 12698
+      FullName: Шаульдер, Чимкентская обл., Казахстан
+      CityName: Шаульдер, Чимкентская обл.
+      OblName: Чимкентскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SHaul''der, CHimkentskaya obl., Kazakhstan'
+  -
+      ID: 16785
+      FullName: Кыземшек, Казахстан
+      CityName: Кыземшек
+      OblName: Южно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName:
+  -
+      ID: 15498
+      FullName: Сарыагаш, Казахстан
+      CityName: Сарыагаш
+      OblName: Южно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Saryagash, Kazakhstan
+  -
+      ID: 15499
+      FullName: Шардара, Южно-Казахстанская обл, Казахстан
+      CityName: Шардара, Южно-Казахстанская обл
+      OblName: Южно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHardara, YUzhno-Kazakhstanskaya obl, Kazakhstan
+  -
+      ID: 15500
+      FullName: Шолак-Корган, Южно-Казахстанская обл, Казахстан
+      CityName: Шолак-Корган, Южно-Казахстанская обл
+      OblName: Южно-Казахстанская обл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: SHolak-Korgan, YUzhno-Kazakhstanskaya obl, Kazakhstan

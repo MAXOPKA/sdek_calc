@@ -1,0 +1,1234 @@
+---
+by:
+  -
+      ID: 2112
+      FullName: Белоруссия (Беларусь), Белоруссия (Беларусь)
+      CityName: Белоруссия (Беларусь)
+      OblName: null
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Belorussiya (Belarus''), Belorussiya (Belarus'')'
+  -
+      ID: 4870
+      FullName: Антополь, Брестская обл., Белоруссия (Беларусь)
+      CityName: Антополь, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Antopol'', Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5144
+      FullName: Барановичи, Брестская обл., Белоруссия (Беларусь)
+      CityName: Барановичи, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Baranovichi, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5301
+      FullName: Белоозерск, Брестская обл., Белоруссия (Беларусь)
+      CityName: Белоозерск, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Beloozersk, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5352
+      FullName: Береза Картуска, Брестская обл., Белоруссия (Белар
+      CityName: Береза Картуска, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Bereza Kartuska, Brestskaya obl., Belorussiya (Belar
+  -
+      ID: 5353
+      FullName: Береза, Брестская обл., Белоруссия (Беларусь)
+      CityName: Береза, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bereza, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5624
+      FullName: Брест, Брестская обл.
+      CityName: Брест, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Brest, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6324
+      FullName: Высокое, Брестская обл., Белоруссия (Беларусь)
+      CityName: Высокое, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vysokoe, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6386
+      FullName: Ганцевичи, Брестская обл., Белоруссия (Беларусь)
+      CityName: Ганцевичи, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gantsevichi, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6566
+      FullName: Городище, Брестская обл., Белоруссия (Беларусь)
+      CityName: Городище, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gorodische, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6736
+      FullName: Давид-Городок, Брестская обл., Белоруссия (Беларус
+      CityName: Давид-Городок, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: David-Gorodok, Brestskaya obl., Belorussiya (Belarus
+  -
+      ID: 6977
+      FullName: Домачево, Брестская обл., Белоруссия (Беларусь)
+      CityName: Домачево, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Domachevo, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7007
+      FullName: Дрогичин, Брестская обл., Белоруссия (Беларусь)
+      CityName: Дрогичин, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Drogichin, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7131
+      FullName: Жабинка, Брестская обл., Белоруссия (Беларусь)
+      CityName: Жабинка, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHabinka, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 15616
+      FullName: Иваново, Белоруссия (Беларусь)
+      CityName: Иваново
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ivanovo, Belorussiya (Belarus'')'
+  -
+      ID: 7291
+      FullName: Ивацевичи, Брестская обл., Белоруссия (Беларусь)
+      CityName: Ивацевичи, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ivatsevichi, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7591
+      FullName: Каменец, Брестская обл., Белоруссия (Беларусь)
+      CityName: Каменец, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kamenets, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8023
+      FullName: Кобрин, Брестская обл., Белоруссия (Беларусь)
+      CityName: Кобрин, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kobrin, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8812
+      FullName: Лунинец, Брестская обл., Белоруссия (Беларусь)
+      CityName: Лунинец, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Luninets, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8839
+      FullName: Ляховичи, Брестская обл., Белоруссия (Беларусь)
+      CityName: Ляховичи, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Lyakhovichi, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8914
+      FullName: Малорита, Брестская обл., Белоруссия (Беларусь)
+      CityName: Малорита, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Malorita, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10403
+      FullName: Пружаны, Брестская обл., Белоруссия (Беларусь)
+      CityName: Пружаны, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Pruzhany, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11405
+      FullName: Столин, Брестская обл., Белоруссия (Беларусь)
+      CityName: Столин, Брестская обл.
+      OblName: Брестскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Stolin, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5146
+      FullName: Барань, Витебская обл., Белоруссия (Беларусь)
+      CityName: Барань, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Baran'', Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5224
+      FullName: Бегомль, Витебская обл., Белоруссия (Беларусь)
+      CityName: Бегомль, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Begoml'', Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5391
+      FullName: Бешенковичи, Витебская обл., Белоруссия (Беларусь)
+      CityName: Бешенковичи, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Beshenkovichi, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5495
+      FullName: Богушевск, Витебская обл., Белоруссия (Беларусь)
+      CityName: Богушевск, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bogushevsk, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5590
+      FullName: Браслав, Витебская обл., Белоруссия (Беларусь)
+      CityName: Браслав, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Braslav, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5998
+      FullName: Верхнедвинск, Витебская обл., Белоруссия (Беларусь
+      CityName: Верхнедвинск, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Verkhnedvinsk, Vitebskaya obl., Belorussiya (Belarus'''
+  -
+      ID: 6092
+      FullName: Ветрино, Витебская обл., Белоруссия (Беларусь)
+      CityName: Ветрино, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vetrino, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6101
+      FullName: Видзы, Витебская обл., Белоруссия (Беларусь)
+      CityName: Видзы, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vidzy, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6215
+      FullName: Витебск, Витебская обл., Белоруссия (Беларусь)
+      CityName: Витебск, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vitebsk, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6276
+      FullName: Воропаево, Витебская обл., Белоруссия (Беларусь)
+      CityName: Воропаево, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Voropaevo, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6508
+      FullName: Глубокое, Витебская обл., Белоруссия (Беларусь)
+      CityName: Глубокое, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Glubokoe, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6570
+      FullName: Городок, Витебская обл., Белоруссия (Беларусь)
+      CityName: Городок, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gorodok, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6949
+      FullName: Дисна, Витебская обл., Белоруссия (Беларусь)
+      CityName: Дисна, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Disna, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6972
+      FullName: Докшицы, Витебская обл., Белоруссия (Беларусь)
+      CityName: Докшицы, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dokshitsy, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 13526
+      FullName: Должа, Витебская обл., Белоруссия (Беларусь)
+      CityName: Должа, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dolzha, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7014
+      FullName: Друя, Витебская обл., Белоруссия (Беларусь)
+      CityName: Друя, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Druya, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7025
+      FullName: Дубровно, Витебская обл., Белоруссия (Беларусь)
+      CityName: Дубровно, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dubrovno, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7087
+      FullName: Езерище, Витебская обл., Белоруссия (Беларусь)
+      CityName: Езерище, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ezerische, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8606
+      FullName: Лепель, Витебская обл., Белоруссия (Беларусь)
+      CityName: Лепель, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Lepel'', Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8685
+      FullName: Лиозно, Витебская обл., Белоруссия (Беларусь)
+      CityName: Лиозно, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Liozno, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9224
+      FullName: Миоры, Витебская обл., Белоруссия (Беларусь)
+      CityName: Миоры, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Miory, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9561
+      FullName: Новополоцк, Витебская обл., Белоруссия (Беларусь)
+      CityName: Новополоцк, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Novopolotsk, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9963
+      FullName: Орша, Витебская обл., Белоруссия (Беларусь)
+      CityName: Орша, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Orsha, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10309
+      FullName: Полоцк, Витебская обл., Белоруссия (Беларусь)
+      CityName: Полоцк, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Polotsk, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10360
+      FullName: Поставы, Витебская обл., Белоруссия (Беларусь)
+      CityName: Поставы, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Postavy, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10702
+      FullName: Россоны, Витебская обл., Белоруссия (Беларусь)
+      CityName: Россоны, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Rossony, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11128
+      FullName: Сенно, Витебская обл., Белоруссия (Беларусь)
+      CityName: Сенно, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Senno, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11666
+      FullName: Толочин, Витебская обл., Белоруссия (Беларусь)
+      CityName: Толочин, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Tolochin, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11915
+      FullName: Ушачи, Витебская обл., Белоруссия (Беларусь)
+      CityName: Ушачи, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ushachi, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12531
+      FullName: Чашники, Витебская обл., Белоруссия (Беларусь)
+      CityName: Чашники, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHashniki, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12686
+      FullName: Шарковщина, Витебская обл., Белоруссия (Беларусь)
+      CityName: Шарковщина, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SHarkovschina, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12780
+      FullName: Шумилино, Витебская обл., Белоруссия (Беларусь)
+      CityName: Шумилино, Витебская обл.
+      OblName: Витебскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SHumilino, Vitebskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5257
+      FullName: Белицк, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Белицк, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Belitsk, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5520
+      FullName: Большевик, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Большевик, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bol''shevik, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5567
+      FullName: Брагин, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Брагин, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bragin, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5692
+      FullName: Буда-Кошелево, Гомельская обл., Белоруссия (Белару
+      CityName: Буда-Кошелево, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Buda-Koshelevo, Gomel''skaya obl., Belorussiya (Belaru'
+  -
+      ID: 5888
+      FullName: Василевичи, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Василевичи, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vasilevichi, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5889
+      FullName: Васильевка, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Васильевка, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vasil''evka, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6091
+      FullName: Ветка, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Ветка, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vetka, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6539
+      FullName: Гомель, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Гомель, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gomel'', Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6961
+      FullName: Добруш, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Добруш, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dobrush, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7105
+      FullName: Ельск, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Ельск, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'El''sk, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7162
+      FullName: Житковичи, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Житковичи, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHitkovichi, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7164
+      FullName: Жлобин, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Жлобин, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHlobin, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7563
+      FullName: Калинковичи, Гомельская обл., Белоруссия (Беларусь
+      CityName: Калинковичи, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kalinkovichi, Gomel''skaya obl., Belorussiya (Belarus'''
+  -
+      ID: 8170
+      FullName: Корма, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Корма, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Korma, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8578
+      FullName: Лельчицы, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Лельчицы, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Lel''chitsy, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8733
+      FullName: Лоев, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Лоев, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Loev, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9269
+      FullName: Мозырь, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Мозырь, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Mozyr'', Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9456
+      FullName: Наровля, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Наровля, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Narovlya, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9843
+      FullName: Октябрьский, Гомельская обл., Белоруссия (Беларусь
+      CityName: Октябрьский, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Oktyabr''skij, Gomel''skaya obl., Belorussiya (Belarus'''
+  -
+      ID: 10208
+      FullName: Петриков, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Петриков, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Petrikov, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10562
+      FullName: Речица, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Речица, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Rechitsa, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10643
+      FullName: Рогачев, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Рогачев, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Rogachev, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11062
+      FullName: Светлогорск, Гомельская обл., Белоруссия (Беларусь
+      CityName: Светлогорск, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Svetlogorsk, Gomel''skaya obl., Belorussiya (Belarus'''
+  -
+      ID: 12381
+      FullName: Хойники, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Хойники, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'KHojniki, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12579
+      FullName: Чечерск, Гомельская обл., Белоруссия (Беларусь)
+      CityName: Чечерск, Гомельская обл.
+      OblName: Гомельскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHechersk, Gomel''skaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5518
+      FullName: Большая Берестовица, Гродненская обл., Белоруссия
+      CityName: Большая Берестовица, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bol''shaya Berestovitsa, Grodnenskaya obl., Belorussiya'
+  -
+      ID: 6245
+      FullName: Волковыск, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Волковыск, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Volkovysk, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6275
+      FullName: Вороново, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Вороново, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Voronovo, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6668
+      FullName: Гродно, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Гродно, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Grodno, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7074
+      FullName: Дятлово, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Дятлово, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dyatlovo, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7150
+      FullName: Желудок, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Желудок, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHeludok, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7240
+      FullName: Зельва, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Зельва, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Zel''va, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7294
+      FullName: Ивье, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Ивье, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Iv''e, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8047
+      FullName: Козловщина, Гродненская обл., Белоруссия (Беларусь
+      CityName: Козловщина, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kozlovschina, Grodnenskaya obl., Belorussiya (Belarus'''
+  -
+      ID: 8162
+      FullName: Кореличи, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Кореличи, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Korelichi, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8635
+      FullName: Лида, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Лида, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Lida, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9343
+      FullName: Мосты, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Мосты, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Mosty, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9556
+      FullName: Новогрудок, Гродненская обл., Белоруссия (Беларусь
+      CityName: Новогрудок, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Novogrudok, Grodnenskaya obl., Belorussiya (Belarus'''
+  -
+      ID: 15713
+      FullName: Ольховка, Белоруссия (Беларусь)
+      CityName: Ольховка
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ol''khovka, Belorussiya (Belarus'')'
+  -
+      ID: 9981
+      FullName: Островец, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Островец, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ostrovets, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10013
+      FullName: Ошмяны, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Ошмяны, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Oshmyany, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11073
+      FullName: Свислочь, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Свислочь, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Svisloch'', Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11255
+      FullName: Слоним, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Слоним, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Slonim, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11267
+      FullName: Сморгонь, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Сморгонь, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Smorgon'', Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12795
+      FullName: Щучин, Гродненская обл., Белоруссия (Беларусь)
+      CityName: Щучин, Гродненская обл.
+      OblName: Гродненскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SCHuchin, Grodnenskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5355
+      FullName: Березино, Минская обл., Белоруссия (Беларусь)
+      CityName: Березино, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Berezino, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5484
+      FullName: Бобр, Минская обл., Белоруссия (Беларусь)
+      CityName: Бобр, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bobr, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5536
+      FullName: Борисов, Минская обл., Белоруссия (Беларусь)
+      CityName: Борисов, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Borisov, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6118
+      FullName: Вилейка, Минская обл., Белоруссия (Беларусь)
+      CityName: Вилейка, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Vilejka, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6255
+      FullName: Воложин, Минская обл., Белоруссия (Беларусь)
+      CityName: Воложин, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Volozhin, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6565
+      FullName: Городея, Минская обл., Белоруссия (Беларусь)
+      CityName: Городея, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gorodeya, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6923
+      FullName: Дзержинск, Минская обл., Белоруссия (Беларусь)
+      CityName: Дзержинск, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dzerzhinsk, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7168
+      FullName: Жодино, Минская обл., Белоруссия (Беларусь)
+      CityName: Жодино, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'ZHodino, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7214
+      FullName: Заславль, Минская обл., Белоруссия (Беларусь)
+      CityName: Заславль, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Zaslavl'', Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7238
+      FullName: Зеленый Бор, Минская обл., Белоруссия (Беларусь)
+      CityName: Зеленый Бор, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Zelenyj Bor, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7292
+      FullName: Ивенец, Минская обл., Белоруссия (Беларусь)
+      CityName: Ивенец, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Ivenets, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7976
+      FullName: Клецк, Минская обл., Белоруссия (Беларусь)
+      CityName: Клецк, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kletsk, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8150
+      FullName: Копыль, Минская обл., Белоруссия (Беларусь)
+      CityName: Копыль, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kopyl'', Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8311
+      FullName: Крупки, Минская обл., Белоруссия (Беларусь)
+      CityName: Крупки, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Krupki, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8727
+      FullName: Логойск, Минская обл., Белоруссия (Беларусь)
+      CityName: Логойск, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Logojsk, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9014
+      FullName: Марьина Горка, Минская обл., Белоруссия (Беларусь)
+      CityName: Марьина Горка, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Mar''ina Gorka, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9220
+      FullName: Минск, Минская обл.
+      CityName: Минск, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Minsk, Minskaya obl.
+  -
+      ID: 9276
+      FullName: Молодечно, Минская обл., Белоруссия (Беларусь)
+      CityName: Молодечно, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Molodechno, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9405
+      FullName: Мядель, Минская обл., Белоруссия (Беларусь)
+      CityName: Мядель, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Myadel'', Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9498
+      FullName: Несвиж, Минская обл., Белоруссия (Беларусь)
+      CityName: Несвиж, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Nesvizh, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 10233
+      FullName: Пинск, Брестская обл., Белоруссия (Беларусь)
+      CityName: Пинск, Брестская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Pinsk, Brestskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 15692
+      FullName: Пуховичи, Минская обл, Белоруссия (Беларусь)
+      CityName: Пуховичи, Минская обл
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Pukhovichi, Minskaya obl, Belorussiya (Belarus'')'
+  -
+      ID: 11258
+      FullName: Слуцк, Минская обл., Белоруссия (Беларусь)
+      CityName: Слуцк, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Slutsk, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11266
+      FullName: Смолевичи, Минская обл., Белоруссия (Беларусь)
+      CityName: Смолевичи, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Smolevichi, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11288
+      FullName: Солигорск, Минская обл., Белоруссия (Беларусь)
+      CityName: Солигорск, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Soligorsk, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11373
+      FullName: Старые Дороги, Минская обл., Белоруссия (Беларусь)
+      CityName: Старые Дороги, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Starye Dorogi, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11404
+      FullName: Столбцы, Минская обл., Белоруссия (Беларусь)
+      CityName: Столбцы, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Stolbtsy, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11849
+      FullName: Узда, Минская обл., Белоруссия (Беларусь)
+      CityName: Узда, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Uzda, Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 15693
+      FullName: Фаниполь, Минская обл, Белоруссия (Беларусь)
+      CityName: Фаниполь, Минская обл
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Fanipol'', Minskaya obl, Belorussiya (Belarus'')'
+  -
+      ID: 12546
+      FullName: Червень, Минская обл., Белоруссия (Беларусь)
+      CityName: Червень, Минская обл.
+      OblName: Минскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHerven'', Minskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5311
+      FullName: Белыничи, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Белыничи, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Belynichi, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5488
+      FullName: Бобруйск, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Бобруйск, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bobrujsk, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 5760
+      FullName: Быхов, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Быхов, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Bykhov, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6510
+      FullName: Глуск, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Глуск, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Glusk, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6512
+      FullName: Глуша, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Глуша, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Glusha, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6556
+      FullName: Горки, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Горки, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Gorki, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 6667
+      FullName: Гродзянка, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Гродзянка, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Grodzyanka, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 15691
+      FullName: Дрибин, Могилевская обл, Белоруссия (Беларусь)
+      CityName: Дрибин, Могилевская обл
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Dribin, Mogilevskaya obl, Belorussiya (Belarus'')'
+  -
+      ID: 7099
+      FullName: Елизово, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Елизово, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Elizovo, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7922
+      FullName: Кировск, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Кировск, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Kirovsk, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7985
+      FullName: Климовичи, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Климовичи, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Klimovichi, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 7999
+      FullName: Кличев, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Кличев, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Klichev, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8201
+      FullName: Костюковичи, Могилевская обл., Белоруссия (Беларус
+      CityName: Костюковичи, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: Kostyukovichi, Mogilevskaya obl., Belorussiya (Belarus
+  -
+      ID: 8261
+      FullName: Краснополье, Могилевская обл., Белоруссия (Беларус
+      CityName: Краснополье, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Krasnopol''e, Mogilevskaya obl., Belorussiya (Belarus'
+  -
+      ID: 8298
+      FullName: Кричев, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Кричев, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Krichev, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 8309
+      FullName: Круглое, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Круглое, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Krugloe, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9263
+      FullName: Могилев, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Могилев, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Mogilev, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 9358
+      FullName: Мстиславль, Могилевская обл., Белоруссия (Беларусь
+      CityName: Мстиславль, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Mstislavl'', Mogilevskaya obl., Belorussiya (Belarus'''
+  -
+      ID: 9969
+      FullName: Осиповичи, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Осиповичи, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Osipovichi, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 11243
+      FullName: Славгород, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Славгород, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'Slavgorod, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12417
+      FullName: Хотимск, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Хотимск, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'KHotimsk, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12530
+      FullName: Чаусы, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Чаусы, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHausy, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12550
+      FullName: Чериков, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Чериков, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'CHerikov, Mogilevskaya obl., Belorussiya (Belarus'')'
+  -
+      ID: 12763
+      FullName: Шклов, Могилевская обл., Белоруссия (Беларусь)
+      CityName: Шклов, Могилевская обл.
+      OblName: Могилевскаяобл.
+      Center:
+      NalSumLimit: 0.00
+      EngName: 'SHklov, Mogilevskaya obl., Belorussiya (Belarus'')'

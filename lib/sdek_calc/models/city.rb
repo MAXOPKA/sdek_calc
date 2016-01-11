@@ -1,3 +1,0 @@
-class SdekCalc::City
-
-end

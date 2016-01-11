@@ -1,10 +1,10 @@
 <h3>Расчёт стоимости доставки СДЭК</h3>
 
-<%= form_for :calc do f %>
-  <%= f.label 'Город-отправитель', :city_sender %>
-  <%= f.select :city_sender %>
-  <%= f.label 'Город-отправитель', :city_receiver %>
-  <%= f.select :city_receiver %>
+<%= form_for @calculator do f %>
+  <%= f.label 'Город-отправитель', :city_shipment %>
+  <%= f.select :city_shipment %>
+  <%= f.label 'Город-отправитель', :city_delivery %>
+  <%= f.select :city_delivery %>
 
   <%= f.label 'Тариф', :city_receiver %>
   <%= f.select :city_receiver %>

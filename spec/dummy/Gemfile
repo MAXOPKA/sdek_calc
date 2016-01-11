@@ -1,0 +1,2 @@
+gem 'sdek_calc', :path => "~/projects/sdek_calc"
+gem 'jbuilder'
