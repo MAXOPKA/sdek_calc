@@ -1,6 +1,7 @@
 SdekCalc::Engine.routes.draw do
-  get '/' => 'calculator#form'
-  post '/' => 'calculator#calculate'
+  root 'calculator/calculator#new'
 
-  get '/find_city' => 'cities#find'
+  get '/find_city' => 'cities#find', module: 'calculator'
+
+  resource :calculator, only: [:new, :create], module: 'calculator'
 end

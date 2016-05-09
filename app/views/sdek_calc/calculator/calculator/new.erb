@@ -1,0 +1,30 @@
+<h3>Расчёт стоимости доставки компанией СДЭК</h3>
+
+<%= form_for @calculator, url: 'calculator_path' do |f| %>
+  <%= f.label :city_shipment, 'Город-отправитель' %>
+  <%= f.select :city_shipment, {} %>
+
+  <%= f.label :city_delivery, 'Город-отправитель'%>
+  <%= f.select :city_delivery, {} %>
+
+  <input name="tariffList1" value="10" hidden />
+  <input name="tariffList2" value="137" hidden />
+
+  <%= f.label :delivery_mode, 'Город-отправитель'%>
+  <%= f.select :delivery_mode, {} %>
+
+  <%= f.label :date_execute, 'Дата отправки'%>
+  <%= f.select :delivery_mode, {} %>
+
+  <input name="dateExecute" value="2012-08-20" hidden />
+
+  <input name="weight1" value="0.3" hidden />
+  <input name="length1" value="10" hidden />
+  <input name="width1" value="7" hidden />
+  <input name="height1" value="5" hidden />
+
+  <input name="weight2" value="0.1" hidden />
+  <input name="volume2" value="0.1" hidden />
+
+  <input type="submit" value="Посчитать">
+<% end %>

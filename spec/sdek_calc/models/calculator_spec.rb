@@ -2,11 +2,12 @@ require 'spec_helper'
 
 describe 'Calculator' do
   calculator_params = {
-    weight: 0.3,
-    length: 10.0,
-    width: 7.0,
-    height: 5.0,
-    volume: 10.0 * 7.0 * 5.0
+    shipping_city: instance_double('SdekCalc::City'),
+    delivery_city: instance_double('SdekCalc::City'),
+    version: '1.0',
+    dateExecute: Date.now,
+    tariffId: 12,
+    places: [instance_double('SdekCalc::Place'), instance_double('SdekCalc::Place')]
   }
 
   let(:calculator){ SdekCalc::Calculator.new(calculator_params) }
